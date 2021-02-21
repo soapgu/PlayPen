@@ -18,6 +18,8 @@
 
 [Android学习之旅之Hello World](https://github.com/soapgu/PlayPen/issues/1)
 
+[Android学习之旅之 First Android App](https://github.com/soapgu/PlayPen/issues/2)
+
 挖坑
 
 Android 学习之旅之okttp
