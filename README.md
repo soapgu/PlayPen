@@ -20,6 +20,8 @@
 
 [Android学习之旅之 First Android App](https://github.com/soapgu/PlayPen/issues/2)
 
+[Android 练手之旅——PhotoHunter](https://github.com/soapgu/PlayPen/issues/3)
+
 挖坑
 
 Android 学习之旅之okttp
