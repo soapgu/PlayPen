@@ -12,7 +12,7 @@
 
 **安卓**
 
-![](https://github.com/soapgu/PlayPen/blob/main/images/1/1.png)
+<img src="\images\logo_android.png" width="150" align="left" />
 
 
 
