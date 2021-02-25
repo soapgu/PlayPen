@@ -12,7 +12,7 @@
 
 **安卓**
 
-<img src="\images\logo_android.png" width="150" align="left" />
+![](/images/logo_android.png)
 
 
 
