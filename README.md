@@ -24,3 +24,6 @@
 
 [Android 练手之旅——PhotoHunter（二）](https://github.com/soapgu/PlayPen/issues/4)
 
+[Android 练手之旅——RxAndroid&OKHttpClient(一)](https://github.com/soapgu/PlayPen/issues/4)
+
+
