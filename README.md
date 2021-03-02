@@ -26,4 +26,5 @@
 
 [Android 练手之旅——RxAndroid&OKHttpClient(一)](https://github.com/soapgu/PlayPen/issues/5)
 
+[Android 练手之旅——DataBinding简介](https://github.com/soapgu/PlayPen/issues/6)
 
