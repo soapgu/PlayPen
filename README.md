@@ -28,3 +28,5 @@
 
 [Android 练手之旅——DataBinding简介](https://github.com/soapgu/PlayPen/issues/6)
 
+[Android 练手之旅——ViewModel&PhotoHunter(三)](https://github.com/soapgu/PlayPen/issues/7)
+
