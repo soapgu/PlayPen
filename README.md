@@ -16,9 +16,9 @@
 
 
 
-[Android学习之旅之Hello World](https://github.com/soapgu/PlayPen/issues/1)
+[Android学习之旅——Hello World](https://github.com/soapgu/PlayPen/issues/1)
 
-[Android学习之旅之 First Android App](https://github.com/soapgu/PlayPen/issues/2)
+[Android学习之旅——First Android App](https://github.com/soapgu/PlayPen/issues/2)
 
 [Android 练手之旅——PhotoHunter（一）](https://github.com/soapgu/PlayPen/issues/3)
 
@@ -29,4 +29,6 @@
 [Android 练手之旅——DataBinding简介](https://github.com/soapgu/PlayPen/issues/6)
 
 [Android 练手之旅——ViewModel&PhotoHunter(三)](https://github.com/soapgu/PlayPen/issues/7)
+
+[Android 练手之旅——零碎知识](https://github.com/soapgu/PlayPen/issues/8)
 
