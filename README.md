@@ -32,3 +32,6 @@
 
 [Android 练手之旅——零碎知识](https://github.com/soapgu/PlayPen/issues/8)
 
+[Android 练手之旅——OKHttp封装](https://github.com/soapgu/PlayPen/issues/9)
+
+预告下篇应该是RecyclerView
