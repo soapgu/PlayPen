@@ -34,4 +34,6 @@
 
 [Android 练手之旅——OKHttp封装](https://github.com/soapgu/PlayPen/issues/9)
 
+[Android学习之旅——Android 调试桥 (adb)初见](https://github.com/soapgu/PlayPen/issues/10)
+
 预告下篇应该是RecyclerView
