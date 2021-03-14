@@ -38,4 +38,6 @@
 
 [Android学习之旅——UncaughtException（UnhandledException）](https://github.com/soapgu/PlayPen/issues/11)
 
-预告下篇应该是RecyclerView
+[Android 练手之旅——RecyclerView(一）Hello](https://github.com/soapgu/PlayPen/issues/12)
+
+[Android 练手之旅——RecyclerView(二）Improvement](https://github.com/soapgu/PlayPen/issues/13)
