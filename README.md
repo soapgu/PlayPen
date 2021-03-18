@@ -41,3 +41,7 @@
 [Android 练手之旅——RecyclerView(一）Hello](https://github.com/soapgu/PlayPen/issues/12)
 
 [Android 练手之旅——RecyclerView(二）Improvement](https://github.com/soapgu/PlayPen/issues/13)
+
+[Android 练手之旅——RecyclerView(三）Observable](https://github.com/soapgu/PlayPen/issues/14)
+
+[Android 练手之旅——初见Fragment](https://github.com/soapgu/PlayPen/issues/15)
