@@ -45,3 +45,5 @@
 [Android 练手之旅——RecyclerView(三）Observable](https://github.com/soapgu/PlayPen/issues/14)
 
 [Android 练手之旅——初见Fragment](https://github.com/soapgu/PlayPen/issues/15)
+
+[Android 练手之旅——PhotoHunter（三）](https://github.com/soapgu/PlayPen/issues/16)
