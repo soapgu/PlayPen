@@ -1,6 +1,6 @@
 # 个人技术博客
 
-**前言**
+## 前言
 
 开卷有益。
 
@@ -10,40 +10,50 @@
 
 ------
 
-**安卓**
+## 安卓
 
 ![](/images/logo_android.png)
 
 
+- 起步
+  - [Android学习之旅——Hello World](https://github.com/soapgu/PlayPen/issues/1)
+  
+  - [Android学习之旅——First Android App](https://github.com/soapgu/PlayPen/issues/2)
+ 
+- PhotoHunter练手 
 
-[Android学习之旅——Hello World](https://github.com/soapgu/PlayPen/issues/1)
+    - [Android 练手之旅——PhotoHunter（一）](https://github.com/soapgu/PlayPen/issues/3)
+    
+    - [Android 练手之旅——PhotoHunter（二）](https://github.com/soapgu/PlayPen/issues/4)
+    
+    - [Android 练手之旅——ViewModel&PhotoHunter(三)](https://github.com/soapgu/PlayPen/issues/7)
+  
+    - [Android 练手之旅——PhotoHunter&SearchList（四）](https://github.com/soapgu/PlayPen/issues/16)
 
-[Android学习之旅——First Android App](https://github.com/soapgu/PlayPen/issues/2)
+- RxJava 
+    - [Android 练手之旅——RxAndroid&OKHttpClient(一)](https://github.com/soapgu/PlayPen/issues/5)
 
-[Android 练手之旅——PhotoHunter（一）](https://github.com/soapgu/PlayPen/issues/3)
 
-[Android 练手之旅——PhotoHunter（二）](https://github.com/soapgu/PlayPen/issues/4)
+ - [Android 练手之旅——DataBinding简介](https://github.com/soapgu/PlayPen/issues/6)
+  
+  - [Android 练手之旅——零碎知识](https://github.com/soapgu/PlayPen/issues/8)
+  
+  - [Android 练手之旅——OKHttp封装](https://github.com/soapgu/PlayPen/issues/9)
+  
+  - [Android学习之旅——Android 调试桥 (adb)初见](https://github.com/soapgu/PlayPen/issues/10)
 
-[Android 练手之旅——RxAndroid&OKHttpClient(一)](https://github.com/soapgu/PlayPen/issues/5)
 
-[Android 练手之旅——DataBinding简介](https://github.com/soapgu/PlayPen/issues/6)
+  - [Android学习之旅——UncaughtException（UnhandledException）](https://github.com/soapgu/PlayPen/issues/11)
 
-[Android 练手之旅——ViewModel&PhotoHunter(三)](https://github.com/soapgu/PlayPen/issues/7)
+- RecyclerView
+    - [Android 练手之旅——RecyclerView(一）Hello](https://github.com/soapgu/PlayPen/issues/12)
 
-[Android 练手之旅——零碎知识](https://github.com/soapgu/PlayPen/issues/8)
+    - [Android 练手之旅——RecyclerView(二）Improvement](https://github.com/soapgu/PlayPen/issues/13)
 
-[Android 练手之旅——OKHttp封装](https://github.com/soapgu/PlayPen/issues/9)
+    - [Android 练手之旅——RecyclerView(三）Observable](https://github.com/soapgu/PlayPen/issues/14)
 
-[Android学习之旅——Android 调试桥 (adb)初见](https://github.com/soapgu/PlayPen/issues/10)
-
-[Android学习之旅——UncaughtException（UnhandledException）](https://github.com/soapgu/PlayPen/issues/11)
-
-[Android 练手之旅——RecyclerView(一）Hello](https://github.com/soapgu/PlayPen/issues/12)
-
-[Android 练手之旅——RecyclerView(二）Improvement](https://github.com/soapgu/PlayPen/issues/13)
-
-[Android 练手之旅——RecyclerView(三）Observable](https://github.com/soapgu/PlayPen/issues/14)
-
-[Android 练手之旅——初见Fragment](https://github.com/soapgu/PlayPen/issues/15)
-
-[Android 练手之旅——PhotoHunter（三）](https://github.com/soapgu/PlayPen/issues/16)
+- [Android 练手之旅——初见Fragment](https://github.com/soapgu/PlayPen/issues/15)
+- androidx.paging3
+    - [Android 练手之旅——Paging起手式（一）](https://github.com/soapgu/PlayPen/issues/17)
+  
+    - [Android 练手之旅——Paging基础实现（二）](https://github.com/soapgu/PlayPen/issues/18)
