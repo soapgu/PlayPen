@@ -48,6 +48,8 @@
 
 
   - [Android学习之旅——UncaughtException（UnhandledException）](https://github.com/soapgu/PlayPen/issues/11)
+  
+  - [Android学习之旅超短篇——加速你的Gradle Build](https://github.com/soapgu/PlayPen/issues/20)
 
 - RecyclerView
     - [Android 练手之旅——RecyclerView(一）Hello](https://github.com/soapgu/PlayPen/issues/12)
@@ -57,7 +59,10 @@
     - [Android 练手之旅——RecyclerView(三）Observable](https://github.com/soapgu/PlayPen/issues/14)
 
 - [Android 练手之旅——初见Fragment](https://github.com/soapgu/PlayPen/issues/15)
-- androidx.paging3
-    - [Android 练手之旅——Paging起手式（一）](https://github.com/soapgu/PlayPen/issues/17)
   
-    - [Android 练手之旅——Paging基础实现（二）](https://github.com/soapgu/PlayPen/issues/18)
+- androidx.paging3
+    - [Android分页库（一）——Paging使用的动机及准备工作](https://github.com/soapgu/PlayPen/issues/17)
+  
+    - [Android分页库（二）——Paging基础实现](https://github.com/soapgu/PlayPen/issues/18)
+    
+    - [Android分页库（三）——Paging完善](https://github.com/soapgu/PlayPen/issues/21) 
