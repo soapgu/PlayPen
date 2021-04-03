@@ -44,12 +44,16 @@
   
   - [Android 练手之旅——OKHttp封装](https://github.com/soapgu/PlayPen/issues/9)
   
-  - [Android学习之旅——Android 调试桥 (adb)初见](https://github.com/soapgu/PlayPen/issues/10)
+  - adb
+    - [Android学习之旅——Android 调试桥 (adb)初见](https://github.com/soapgu/PlayPen/issues/10)
 
-
-  - [Android学习之旅——UncaughtException（UnhandledException）](https://github.com/soapgu/PlayPen/issues/11)
+    - [ADB调试手册](https://github.com/soapgu/PlayPen/issues/22)
   
-  - [Android学习之旅超短篇——加速你的Gradle Build](https://github.com/soapgu/PlayPen/issues/20)
+  - 杂记 
+  
+    - [Android学习之旅——UncaughtException（UnhandledException）](https://github.com/soapgu/PlayPen/issues/11)
+  
+    - [Android学习之旅超短篇——加速你的Gradle Build](https://github.com/soapgu/PlayPen/issues/20)
 
 - RecyclerView
     - [Android 练手之旅——RecyclerView(一）Hello](https://github.com/soapgu/PlayPen/issues/12)
@@ -65,4 +69,14 @@
   
     - [Android分页库（二）——Paging基础实现](https://github.com/soapgu/PlayPen/issues/18)
     
-    - [Android分页库（三）——Paging完善](https://github.com/soapgu/PlayPen/issues/21) 
+    - [Android分页库（三）——Paging完善](https://github.com/soapgu/PlayPen/issues/21)
+     
+- 安卓任务
+  - [安卓的任务和返回堆栈](https://github.com/soapgu/PlayPen/issues/23)
+  
+  - [Android的返回堆栈&多任务&生命周期的一些思考](https://github.com/soapgu/PlayPen/issues/24)
+
+- 二维码扫描
+  - [二维码学习Zxing（一）](https://github.com/soapgu/PlayPen/issues/25)
+    
+  - 二维码学习Zxing（二）占坑  
