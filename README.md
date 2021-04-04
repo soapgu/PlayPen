@@ -77,6 +77,6 @@
   - [Android的返回堆栈&多任务&生命周期的一些思考](https://github.com/soapgu/PlayPen/issues/24)
 
 - 二维码扫描
-  - [二维码学习Zxing（一）](https://github.com/soapgu/PlayPen/issues/25)
+  - [二维码学习Zxing（一）——Zxing源码导入](https://github.com/soapgu/PlayPen/issues/25)
     
-  - 二维码学习Zxing（二）占坑  
+  - [二维码学习Zxing（二）——ActivityResult新写法](https://github.com/soapgu/PlayPen/issues/26)  
