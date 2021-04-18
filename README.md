@@ -36,6 +36,8 @@
     - [Android 练手之旅——RxAndroid&OKHttpClient(一)](https://github.com/soapgu/PlayPen/issues/5)
     
     - [Java的Coroutines实现——RxAndroid&OKHttpClient(二)](https://github.com/soapgu/PlayPen/issues/19)
+    
+    - [深入RxJava之多维转换及平铺收敛](https://github.com/soapgu/PlayPen/issues/29)
 
 
  - [Android 练手之旅——DataBinding简介](https://github.com/soapgu/PlayPen/issues/6)
@@ -43,6 +45,8 @@
   - [Android 练手之旅——零碎知识](https://github.com/soapgu/PlayPen/issues/8)
   
   - [Android 练手之旅——OKHttp封装](https://github.com/soapgu/PlayPen/issues/9)
+  
+  - [LiveData初次登场](https://github.com/soapgu/PlayPen/issues/28)
   
   - adb
     - [Android学习之旅——Android 调试桥 (adb)初见](https://github.com/soapgu/PlayPen/issues/10)
@@ -54,6 +58,8 @@
     - [Android学习之旅——UncaughtException（UnhandledException）](https://github.com/soapgu/PlayPen/issues/11)
   
     - [Android学习之旅超短篇——加速你的Gradle Build](https://github.com/soapgu/PlayPen/issues/20)
+  
+    - [Android的线程池](https://github.com/soapgu/PlayPen/issues/27)
 
 - RecyclerView
     - [Android 练手之旅——RecyclerView(一）Hello](https://github.com/soapgu/PlayPen/issues/12)
@@ -80,3 +86,5 @@
   - [二维码学习Zxing（一）——Zxing源码导入](https://github.com/soapgu/PlayPen/issues/25)
     
   - [二维码学习Zxing（二）——ActivityResult新写法](https://github.com/soapgu/PlayPen/issues/26)  
+  
+- 
