@@ -41,7 +41,7 @@
     
     - [深入RxJava之错误处理机制](https://github.com/soapgu/PlayPen/issues/30)
   
-![](/images/导览更新RX示意图.png)
+![](/images/公告导览更新RX示意图.png)
 
  - [Android 练手之旅——DataBinding简介](https://github.com/soapgu/PlayPen/issues/6)
   
