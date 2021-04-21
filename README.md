@@ -38,7 +38,10 @@
     - [Java的Coroutines实现——RxAndroid&OKHttpClient(二)](https://github.com/soapgu/PlayPen/issues/19)
     
     - [深入RxJava之多维转换及平铺收敛](https://github.com/soapgu/PlayPen/issues/29)
-
+    
+    - [深入RxJava之错误处理机制](https://github.com/soapgu/PlayPen/issues/30)
+  
+![](/images/导览更新RX示意图.png)
 
  - [Android 练手之旅——DataBinding简介](https://github.com/soapgu/PlayPen/issues/6)
   
