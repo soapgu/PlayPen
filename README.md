@@ -20,15 +20,13 @@
   
   - [Android学习之旅——First Android App](https://github.com/soapgu/PlayPen/issues/2)
  
-- PhotoHunter练手 
-
-    - [Android 练手之旅——PhotoHunter（一）](https://github.com/soapgu/PlayPen/issues/3)
+  - [Android 练手之旅——PhotoHunter（一）](https://github.com/soapgu/PlayPen/issues/3)
     
-    - [Android 练手之旅——PhotoHunter（二）](https://github.com/soapgu/PlayPen/issues/4)
+  - [Android 练手之旅——PhotoHunter（二）](https://github.com/soapgu/PlayPen/issues/4)
     
-    - [Android 练手之旅——ViewModel&PhotoHunter(三)](https://github.com/soapgu/PlayPen/issues/7)
+  - [Android 练手之旅——ViewModel&PhotoHunter(三)](https://github.com/soapgu/PlayPen/issues/7)
   
-    - [Android 练手之旅——PhotoHunter&SearchList（四）](https://github.com/soapgu/PlayPen/issues/16)
+  - [Android 练手之旅——PhotoHunter&SearchList（四）](https://github.com/soapgu/PlayPen/issues/16)
 
 ![](http://reactivex.io/assets/Rx_Logo_S.png)
 
@@ -45,11 +43,11 @@
 
  - [Android 练手之旅——DataBinding简介](https://github.com/soapgu/PlayPen/issues/6)
   
-  - [Android 练手之旅——零碎知识](https://github.com/soapgu/PlayPen/issues/8)
-  
   - [Android 练手之旅——OKHttp封装](https://github.com/soapgu/PlayPen/issues/9)
   
   - [LiveData初次登场](https://github.com/soapgu/PlayPen/issues/28)
+  
+  - [Android自启程序以及将广播接收器简介](https://github.com/soapgu/PlayPen/issues/31)
   
   - adb
     - [Android学习之旅——Android 调试桥 (adb)初见](https://github.com/soapgu/PlayPen/issues/10)
@@ -57,6 +55,7 @@
     - [ADB调试手册](https://github.com/soapgu/PlayPen/issues/22)
   
   - 杂记 
+    - [Android 练手之旅——零碎知识](https://github.com/soapgu/PlayPen/issues/8)
   
     - [Android学习之旅——UncaughtException（UnhandledException）](https://github.com/soapgu/PlayPen/issues/11)
   
