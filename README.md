@@ -14,6 +14,8 @@
 
 ![](/images/logo_android.png)
 
+### 置顶 [Android依赖库白名单(LTS)](https://github.com/soapgu/PlayPen/wiki/Android%E4%BE%9D%E8%B5%96%E5%BA%93%E7%99%BD%E5%90%8D%E5%8D%95(LTS))
+
 
 - 起步
   - [Android学习之旅——Hello World](https://github.com/soapgu/PlayPen/issues/1)
