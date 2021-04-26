@@ -91,4 +91,5 @@
     
   - [二维码学习Zxing（二）——ActivityResult新写法](https://github.com/soapgu/PlayPen/issues/26)  
   
-- 
+- IoC(Inversion of Control)/DI(Dependency injection)
+  - [Android的IOC（一）——dagger 初见](https://github.com/soapgu/PlayPen/issues/32)  
