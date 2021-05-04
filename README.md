@@ -97,3 +97,5 @@
   - [Android的IOC（二）——初见Hilt（1）](https://github.com/soapgu/PlayPen/issues/33)
 
   - [Android的IOC（三）——初见Hilt（2）](https://github.com/soapgu/PlayPen/issues/34)
+
+  - [Android的IOC（四）——Hilt实践（3）](https://github.com/soapgu/PlayPen/issues/35)
