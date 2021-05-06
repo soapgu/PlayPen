@@ -64,6 +64,8 @@
     - [Android学习之旅超短篇——加速你的Gradle Build](https://github.com/soapgu/PlayPen/issues/20)
   
     - [Android的线程池](https://github.com/soapgu/PlayPen/issues/27)
+    
+    - [Android编译杂谈（应用ID，Build 类型，应用签名）](https://github.com/soapgu/PlayPen/issues/36) 
 
 - RecyclerView
     - [Android 练手之旅——RecyclerView(一）Hello](https://github.com/soapgu/PlayPen/issues/12)
