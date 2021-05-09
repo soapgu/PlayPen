@@ -101,3 +101,5 @@
   - [Android的IOC（三）——初见Hilt（2）](https://github.com/soapgu/PlayPen/issues/34)
 
   - [Android的IOC（四）——Hilt实践（3）](https://github.com/soapgu/PlayPen/issues/35)
+
+  - [Android的IOC（五）——多模块耦合实践Step by Step](https://github.com/soapgu/PlayPen/issues/37)
