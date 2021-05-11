@@ -67,6 +67,9 @@
     
     - [Android编译杂谈（应用ID，Build 类型，应用签名）](https://github.com/soapgu/PlayPen/issues/36) 
 
+    - [build.gradle优化汇总](https://github.com/soapgu/PlayPen/issues/38)
+
+
 - RecyclerView
     - [Android 练手之旅——RecyclerView(一）Hello](https://github.com/soapgu/PlayPen/issues/12)
 
