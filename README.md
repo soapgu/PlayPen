@@ -41,15 +41,27 @@
     
     - [深入RxJava之错误处理机制](https://github.com/soapgu/PlayPen/issues/30)
   
-![](/images/公告导览更新RX示意图.png)
+    ![](/images/公告导览更新RX示意图.png)
 
- - [Android 练手之旅——DataBinding简介](https://github.com/soapgu/PlayPen/issues/6)
+    - [深入RxJava之汇聚操作](https://github.com/soapgu/PlayPen/issues/45)
+
+  - Android DataBinding
   
-  - [Android 练手之旅——OKHttp封装](https://github.com/soapgu/PlayPen/issues/9)
+    - [Android 练手之旅——DataBinding简介](https://github.com/soapgu/PlayPen/issues/6)
   
-  - [LiveData初次登场](https://github.com/soapgu/PlayPen/issues/28)
+    - [Android 练手之旅——OKHttp封装](https://github.com/soapgu/PlayPen/issues/9)
   
-  - [Android自启程序以及将广播接收器简介](https://github.com/soapgu/PlayPen/issues/31)
+    - [LiveData初次登场](https://github.com/soapgu/PlayPen/issues/28)
+  
+  - Android 四大组件
+  
+    - [Android四大组件之Service](https://github.com/soapgu/PlayPen/issues/39) 
+    
+    - [Android自启程序以及将广播接收器简介](https://github.com/soapgu/PlayPen/issues/31)
+    
+    - [Android四大组件之Broadcast补充篇](https://github.com/soapgu/PlayPen/issues/40) 
+    
+    - [Android四大组件之Service回调补充](https://github.com/soapgu/PlayPen/issues/41)
   
   - adb
     - [Android学习之旅——Android 调试桥 (adb)初见](https://github.com/soapgu/PlayPen/issues/10)
@@ -68,6 +80,8 @@
     - [Android编译杂谈（应用ID，Build 类型，应用签名）](https://github.com/soapgu/PlayPen/issues/36) 
 
     - [build.gradle优化汇总](https://github.com/soapgu/PlayPen/issues/38)
+    
+    - [Android Studio使用过程中bulid成功，ide提示出错解决方法（超短篇）](https://github.com/soapgu/PlayPen/issues/43)
 
 
 - RecyclerView
@@ -90,6 +104,8 @@
   - [安卓的任务和返回堆栈](https://github.com/soapgu/PlayPen/issues/23)
   
   - [Android的返回堆栈&多任务&生命周期的一些思考](https://github.com/soapgu/PlayPen/issues/24)
+- 存储
+  - [Android的外部存储空间（短篇）](https://github.com/soapgu/PlayPen/issues/44)
 
 - 二维码扫描
   - [二维码学习Zxing（一）——Zxing源码导入](https://github.com/soapgu/PlayPen/issues/25)
@@ -106,3 +122,4 @@
   - [Android的IOC（四）——Hilt实践（3）](https://github.com/soapgu/PlayPen/issues/35)
 
   - [Android的IOC（五）——多模块耦合实践Step by Step](https://github.com/soapgu/PlayPen/issues/37)
+  - [Android的IOC（六）—— Hilt注入原理深入解析](https://github.com/soapgu/PlayPen/issues/42)
