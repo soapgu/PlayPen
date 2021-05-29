@@ -44,61 +44,77 @@
     ![](/images/公告导览更新RX示意图.png)
 
     - [深入RxJava之汇聚操作](https://github.com/soapgu/PlayPen/issues/45)
+- IoC(Inversion of Control)/DI(Dependency injection)
+  
+  - [Android的IOC（一）——dagger 初见](https://github.com/soapgu/PlayPen/issues/32)  
+  
+  - [Android的IOC（二）——初见Hilt（1）](https://github.com/soapgu/PlayPen/issues/33)
 
-  - Android DataBinding
-  
-    - [Android 练手之旅——DataBinding简介](https://github.com/soapgu/PlayPen/issues/6)
-  
-    - [Android 练手之旅——OKHttp封装](https://github.com/soapgu/PlayPen/issues/9)
-  
-    - [LiveData初次登场](https://github.com/soapgu/PlayPen/issues/28)
-  
-  - Android 四大组件
-  
-    - [Android四大组件之Service](https://github.com/soapgu/PlayPen/issues/39) 
-    
-    - [Android自启程序以及将广播接收器简介](https://github.com/soapgu/PlayPen/issues/31)
-    
-    - [Android四大组件之Broadcast补充篇](https://github.com/soapgu/PlayPen/issues/40) 
-    
-    - [Android四大组件之Service回调补充](https://github.com/soapgu/PlayPen/issues/41)
-  
-  - adb
-    - [Android学习之旅——Android 调试桥 (adb)初见](https://github.com/soapgu/PlayPen/issues/10)
+  - [Android的IOC（三）——初见Hilt（2）](https://github.com/soapgu/PlayPen/issues/34)
 
-    - [ADB调试手册](https://github.com/soapgu/PlayPen/issues/22)
-  
-  - 杂记 
-    - [Android 练手之旅——零碎知识](https://github.com/soapgu/PlayPen/issues/8)
-  
-    - [Android学习之旅——UncaughtException（UnhandledException）](https://github.com/soapgu/PlayPen/issues/11)
-  
-    - [Android学习之旅超短篇——加速你的Gradle Build](https://github.com/soapgu/PlayPen/issues/20)
-  
-    - [Android的线程池](https://github.com/soapgu/PlayPen/issues/27)
-    
-    - [Android编译杂谈（应用ID，Build 类型，应用签名）](https://github.com/soapgu/PlayPen/issues/36) 
+  - [Android的IOC（四）——Hilt实践（3）](https://github.com/soapgu/PlayPen/issues/35)
 
-    - [build.gradle优化汇总](https://github.com/soapgu/PlayPen/issues/38)
-    
-    - [Android Studio使用过程中bulid成功，ide提示出错解决方法（超短篇）](https://github.com/soapgu/PlayPen/issues/43)
+  - [Android的IOC（五）——多模块耦合实践Step by Step](https://github.com/soapgu/PlayPen/issues/37)
+  - [Android的IOC（六）—— Hilt注入原理深入解析](https://github.com/soapgu/PlayPen/issues/42)
+  
+- Android DataBinding
+  
+  - [Android 练手之旅——DataBinding简介](https://github.com/soapgu/PlayPen/issues/6)
+
+  - [Android 练手之旅——OKHttp封装](https://github.com/soapgu/PlayPen/issues/9)
+
+  - [LiveData初次登场](https://github.com/soapgu/PlayPen/issues/28)
+
+- Http Client Retrofit
+  
+  - [Http神器组件Retrofit的使用（一）](https://github.com/soapgu/PlayPen/issues/47)
+  
+- Android 四大组件
+  
+  - [Android四大组件之Service](https://github.com/soapgu/PlayPen/issues/39) 
+  
+  - [Android自启程序以及将广播接收器简介](https://github.com/soapgu/PlayPen/issues/31)
+  
+  - [Android四大组件之Broadcast补充篇](https://github.com/soapgu/PlayPen/issues/40) 
+  
+  - [Android四大组件之Service回调补充](https://github.com/soapgu/PlayPen/issues/41)
+  
+- adb
+  - [Android学习之旅——Android 调试桥 (adb)初见](https://github.com/soapgu/PlayPen/issues/10)
+
+  - [ADB调试手册](https://github.com/soapgu/PlayPen/issues/22)
+  
+- 杂记 
+  - [Android 练手之旅——零碎知识](https://github.com/soapgu/PlayPen/issues/8)
+
+  - [Android学习之旅——UncaughtException（UnhandledException）](https://github.com/soapgu/PlayPen/issues/11)
+
+  - [Android学习之旅超短篇——加速你的Gradle Build](https://github.com/soapgu/PlayPen/issues/20)
+
+  - [Android的线程池](https://github.com/soapgu/PlayPen/issues/27)
+  
+  - [Android编译杂谈（应用ID，Build 类型，应用签名）](https://github.com/soapgu/PlayPen/issues/36) 
+
+  - [build.gradle优化汇总](https://github.com/soapgu/PlayPen/issues/38)
+  
+  - [Android Studio使用过程中bulid成功，ide提示出错解决方法（超短篇）](https://github.com/soapgu/PlayPen/issues/43)
 
 
 - RecyclerView
-    - [Android 练手之旅——RecyclerView(一）Hello](https://github.com/soapgu/PlayPen/issues/12)
+  - [Android 练手之旅——RecyclerView(一）Hello](https://github.com/soapgu/PlayPen/issues/12)
 
-    - [Android 练手之旅——RecyclerView(二）Improvement](https://github.com/soapgu/PlayPen/issues/13)
+  - [Android 练手之旅——RecyclerView(二）Improvement](https://github.com/soapgu/PlayPen/issues/13)
 
-    - [Android 练手之旅——RecyclerView(三）Observable](https://github.com/soapgu/PlayPen/issues/14)
+  - [Android 练手之旅——RecyclerView(三）Observable](https://github.com/soapgu/PlayPen/issues/14)
 
 - [Android 练手之旅——初见Fragment](https://github.com/soapgu/PlayPen/issues/15)
   
 - androidx.paging3
-    - [Android分页库（一）——Paging使用的动机及准备工作](https://github.com/soapgu/PlayPen/issues/17)
+  - [Android分页库（一）——Paging使用的动机及准备工作](https://github.com/soapgu/PlayPen/issues/17)
+
+  - [Android分页库（二）——Paging基础实现](https://github.com/soapgu/PlayPen/issues/18)
   
-    - [Android分页库（二）——Paging基础实现](https://github.com/soapgu/PlayPen/issues/18)
-    
-    - [Android分页库（三）——Paging完善](https://github.com/soapgu/PlayPen/issues/21)
+  - [Android分页库（三）——Paging完善](https://github.com/soapgu/PlayPen/issues/21)
      
 - 安卓任务
   - [安卓的任务和返回堆栈](https://github.com/soapgu/PlayPen/issues/23)
@@ -111,15 +127,4 @@
   - [二维码学习Zxing（一）——Zxing源码导入](https://github.com/soapgu/PlayPen/issues/25)
     
   - [二维码学习Zxing（二）——ActivityResult新写法](https://github.com/soapgu/PlayPen/issues/26)  
-  
-- IoC(Inversion of Control)/DI(Dependency injection)
-  - [Android的IOC（一）——dagger 初见](https://github.com/soapgu/PlayPen/issues/32)  
-  
-  - [Android的IOC（二）——初见Hilt（1）](https://github.com/soapgu/PlayPen/issues/33)
 
-  - [Android的IOC（三）——初见Hilt（2）](https://github.com/soapgu/PlayPen/issues/34)
-
-  - [Android的IOC（四）——Hilt实践（3）](https://github.com/soapgu/PlayPen/issues/35)
-
-  - [Android的IOC（五）——多模块耦合实践Step by Step](https://github.com/soapgu/PlayPen/issues/37)
-  - [Android的IOC（六）—— Hilt注入原理深入解析](https://github.com/soapgu/PlayPen/issues/42)
