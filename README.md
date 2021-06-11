@@ -55,7 +55,12 @@
   - [Android的IOC（四）——Hilt实践（3）](https://github.com/soapgu/PlayPen/issues/35)
 
   - [Android的IOC（五）——多模块耦合实践Step by Step](https://github.com/soapgu/PlayPen/issues/37)
+  
   - [Android的IOC（六）—— Hilt注入原理深入解析](https://github.com/soapgu/PlayPen/issues/42)
+  
+  - [Android的IOC（七）—— Hilt的AndroidEntryPoint与宿主基类的恩怨情仇](https://github.com/soapgu/PlayPen/issues/52)
+  
+  - [Android的IOC（八）—— 可空注入实现](https://github.com/soapgu/PlayPen/issues/53)
   
 - Android DataBinding
   
@@ -64,6 +69,8 @@
   - [Android 练手之旅——OKHttp封装](https://github.com/soapgu/PlayPen/issues/9)
 
   - [LiveData初次登场](https://github.com/soapgu/PlayPen/issues/28)
+  
+  - [MVVM模式下Fragment抽象类实现](https://github.com/soapgu/PlayPen/issues/51)
 
 - Http Client Retrofit
   
@@ -98,6 +105,8 @@
   - [build.gradle优化汇总](https://github.com/soapgu/PlayPen/issues/38)
   
   - [Android Studio使用过程中bulid成功，ide提示出错解决方法（超短篇）](https://github.com/soapgu/PlayPen/issues/43)
+  
+  - [Android界的Elements查看器Layout Inspector](https://github.com/soapgu/PlayPen/issues/48)
 
 
 - RecyclerView
@@ -126,5 +135,10 @@
 - 二维码扫描
   - [二维码学习Zxing（一）——Zxing源码导入](https://github.com/soapgu/PlayPen/issues/25)
     
-  - [二维码学习Zxing（二）——ActivityResult新写法](https://github.com/soapgu/PlayPen/issues/26)  
+  - [二维码学习Zxing（二）——ActivityResult新写法](https://github.com/soapgu/PlayPen/issues/26)
 
+- 异常判断
+
+  - [FragmentManager执行commit的IllegalStateException异常成因及解决](https://github.com/soapgu/PlayPen/issues/49)
+  
+  - [Sending non-protected broadcast 告警信息处理](https://github.com/soapgu/PlayPen/issues/50)  
