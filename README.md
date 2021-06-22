@@ -107,6 +107,12 @@
   - [Android Studio使用过程中bulid成功，ide提示出错解决方法（超短篇）](https://github.com/soapgu/PlayPen/issues/43)
   
   - [Android界的Elements查看器Layout Inspector](https://github.com/soapgu/PlayPen/issues/48)
+  
+  - [Android零碎知识点整理](https://github.com/soapgu/PlayPen/issues/55)
+  
+  - [多项目多模块组合之——能聚能散](https://github.com/soapgu/PlayPen/issues/56)
+  
+  - [Logger组件之日志序列化](https://github.com/soapgu/PlayPen/issues/57)
 
 
 - RecyclerView
@@ -141,4 +147,6 @@
 
   - [FragmentManager执行commit的IllegalStateException异常成因及解决](https://github.com/soapgu/PlayPen/issues/49)
   
-  - [Sending non-protected broadcast 告警信息处理](https://github.com/soapgu/PlayPen/issues/50)  
+  - [Sending non-protected broadcast 告警信息处理](https://github.com/soapgu/PlayPen/issues/50)
+  
+  - [Android的资源冲突详解](https://github.com/soapgu/PlayPen/issues/54)  
