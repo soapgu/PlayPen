@@ -149,4 +149,9 @@
   
   - [Sending non-protected broadcast 告警信息处理](https://github.com/soapgu/PlayPen/issues/50)
   
-  - [Android的资源冲突详解](https://github.com/soapgu/PlayPen/issues/54)  
+  - [Android的资源冲突详解](https://github.com/soapgu/PlayPen/issues/54)
+- 安卓自动化之旅
+  
+  - [安卓自动化之旅——gradle命令行及环境配置（一）](https://github.com/soapgu/PlayPen/issues/59)
+
+  - [安卓自动化之旅——打通coding的持续集成（二）](https://github.com/soapgu/PlayPen/issues/60)   
