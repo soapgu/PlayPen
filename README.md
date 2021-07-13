@@ -46,21 +46,21 @@
     - [深入RxJava之汇聚操作](https://github.com/soapgu/PlayPen/issues/45)
 - IoC(Inversion of Control)/DI(Dependency injection)
   
-  - [Android的IOC（一）——dagger 初见](https://github.com/soapgu/PlayPen/issues/32)  
+  - [Android的IoC（一）——dagger 初见](https://github.com/soapgu/PlayPen/issues/32)  
   
-  - [Android的IOC（二）——初见Hilt（1）](https://github.com/soapgu/PlayPen/issues/33)
+  - [Android的IoC（二）——初见Hilt（1）](https://github.com/soapgu/PlayPen/issues/33)
 
-  - [Android的IOC（三）——初见Hilt（2）](https://github.com/soapgu/PlayPen/issues/34)
+  - [Android的IoC（三）——初见Hilt（2）](https://github.com/soapgu/PlayPen/issues/34)
 
-  - [Android的IOC（四）——Hilt实践（3）](https://github.com/soapgu/PlayPen/issues/35)
+  - [Android的IoC（四）——Hilt实践（3）](https://github.com/soapgu/PlayPen/issues/35)
 
-  - [Android的IOC（五）——多模块耦合实践Step by Step](https://github.com/soapgu/PlayPen/issues/37)
+  - [Android的IoC（五）——多模块耦合实践Step by Step](https://github.com/soapgu/PlayPen/issues/37)
   
-  - [Android的IOC（六）—— Hilt注入原理深入解析](https://github.com/soapgu/PlayPen/issues/42)
+  - [Android的IoC（六）—— Hilt注入原理深入解析](https://github.com/soapgu/PlayPen/issues/42)
   
-  - [Android的IOC（七）—— Hilt的AndroidEntryPoint与宿主基类的恩怨情仇](https://github.com/soapgu/PlayPen/issues/52)
+  - [Android的IoC（七）—— Hilt的AndroidEntryPoint与宿主基类的恩怨情仇](https://github.com/soapgu/PlayPen/issues/52)
   
-  - [Android的IOC（八）—— 可空注入实现](https://github.com/soapgu/PlayPen/issues/53)
+  - [Android的IoC（八）—— 可空注入实现](https://github.com/soapgu/PlayPen/issues/53)
   
 - Android DataBinding
   
