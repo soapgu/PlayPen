@@ -71,6 +71,8 @@
   - [LiveData初次登场](https://github.com/soapgu/PlayPen/issues/28)
   
   - [MVVM模式下Fragment抽象类实现](https://github.com/soapgu/PlayPen/issues/51)
+  
+  - [LiveData系列二——组件内使用observe是this还是getViewLifecycleOwner()?](https://github.com/soapgu/PlayPen/issues/63)
 
 - Http Client Retrofit
   
@@ -99,8 +101,6 @@
   - [Android学习之旅超短篇——加速你的Gradle Build](https://github.com/soapgu/PlayPen/issues/20)
 
   - [Android的线程池](https://github.com/soapgu/PlayPen/issues/27)
-  
-  - [Android编译杂谈（应用ID，Build 类型，应用签名）](https://github.com/soapgu/PlayPen/issues/36) 
 
   - [build.gradle优化汇总](https://github.com/soapgu/PlayPen/issues/38)
   
@@ -113,7 +113,18 @@
   - [多项目多模块组合之——能聚能散](https://github.com/soapgu/PlayPen/issues/56)
   
   - [Logger组件之日志序列化](https://github.com/soapgu/PlayPen/issues/57)
+  
+  - [Android 针对listener 的binding的注意事项](https://github.com/soapgu/PlayPen/issues/62)
+  
+  - [app重启Android系统的两种实现方式](https://github.com/soapgu/PlayPen/issues/66)
+  
+- 签名
+  
+  - [Android编译杂谈（应用ID，Build 类型，应用签名）](https://github.com/soapgu/PlayPen/issues/36) 
 
+  - [签名三部曲（二）——如何让你的Android应用开挂](https://github.com/soapgu/PlayPen/issues/64)
+  
+  - [签名三部曲（三）——签名原理及总结（埋坑）]()
 
 - RecyclerView
   - [Android 练手之旅——RecyclerView(一）Hello](https://github.com/soapgu/PlayPen/issues/12)
@@ -143,6 +154,8 @@
     
   - [二维码学习Zxing（二）——ActivityResult新写法](https://github.com/soapgu/PlayPen/issues/26)
 
+  - [二维码学习Zxing（三）——生成展示二维码](https://github.com/soapgu/PlayPen/issues/61)
+
 - 异常判断
 
   - [FragmentManager执行commit的IllegalStateException异常成因及解决](https://github.com/soapgu/PlayPen/issues/49)
@@ -150,8 +163,22 @@
   - [Sending non-protected broadcast 告警信息处理](https://github.com/soapgu/PlayPen/issues/50)
   
   - [Android的资源冲突详解](https://github.com/soapgu/PlayPen/issues/54)
+
+  - [冷知识——解决模态框弹框破坏沉浸式全屏模式](https://github.com/soapgu/PlayPen/issues/65)
+
+  - [coding持续集成吐血升级Gradle之旅](https://github.com/soapgu/PlayPen/issues/67)
+
 - 安卓自动化之旅
   
-  - [安卓自动化之旅——gradle命令行及环境配置（一）](https://github.com/soapgu/PlayPen/issues/59)
+  - [安卓自动化之旅（一）——gradle命令行及环境配置](https://github.com/soapgu/PlayPen/issues/59)
 
-  - [安卓自动化之旅——打通coding的持续集成（二）](https://github.com/soapgu/PlayPen/issues/60)   
+  - [安卓自动化之旅（二）——打通coding的持续集成](https://github.com/soapgu/PlayPen/issues/60)
+  
+  - [安卓自动化之旅（三）——尝试使用Docker环境来构建APK 上](https://github.com/soapgu/PlayPen/issues/68)
+
+  - [安卓自动化之旅（四）——尝试使用Docker环境来构建APK 下](https://github.com/soapgu/PlayPen/issues/69)
+  
+  - [安卓自动化之旅（五）——完善使用Docker环境来构建APK](https://github.com/soapgu/PlayPen/issues/70)
+
+
+
