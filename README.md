@@ -44,6 +44,9 @@
     ![](/images/公告导览更新RX示意图.png)
 
     - [深入RxJava之汇聚操作](https://github.com/soapgu/PlayPen/issues/45)
+    
+    - [深入RxJava之Maybe——让Coroutine更优雅](https://github.com/soapgu/PlayPen/issues/72)
+
 - IoC(Inversion of Control)/DI(Dependency injection)
   
   - [Android的IoC（一）——dagger 初见](https://github.com/soapgu/PlayPen/issues/32)  
@@ -62,6 +65,8 @@
   
   - [Android的IoC（八）—— 可空注入实现](https://github.com/soapgu/PlayPen/issues/53)
   
+  - [Android的IoC（九）—— 可空注入实现补充（0或n）](https://github.com/soapgu/PlayPen/issues/73)
+
 - Android DataBinding
   
   - [Android 练手之旅——DataBinding简介](https://github.com/soapgu/PlayPen/issues/6)
@@ -117,7 +122,11 @@
   - [Android 针对listener 的binding的注意事项](https://github.com/soapgu/PlayPen/issues/62)
   
   - [app重启Android系统的两种实现方式](https://github.com/soapgu/PlayPen/issues/66)
-  
+
+  - [使用Gradle创建并完成一个JAVA程序](https://github.com/soapgu/PlayPen/issues/71)
+
+  - [使用高精度定时装置来完成App的日间模式&夜间模式切换](https://github.com/soapgu/PlayPen/issues/74)
+
 - 签名
   
   - [Android编译杂谈（应用ID，Build 类型，应用签名）](https://github.com/soapgu/PlayPen/issues/36) 
@@ -180,5 +189,6 @@
   
   - [安卓自动化之旅（五）——完善使用Docker环境来构建APK](https://github.com/soapgu/PlayPen/issues/70)
 
-
+- IDE 杂项
+  - [在windows系统中使用curl命令的困惑](https://github.com/soapgu/PlayPen/issues/75)
 
