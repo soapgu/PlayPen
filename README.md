@@ -189,6 +189,15 @@
   
   - [安卓自动化之旅（五）——完善使用Docker环境来构建APK](https://github.com/soapgu/PlayPen/issues/70)
 
+  - [安卓自动化之旅（六）——使用Coding&Docker持续集成安卓项目](https://github.com/soapgu/PlayPen/issues/77)
+  
+  - [安卓自动化之旅（七）——短篇，优化Docker缓存（短篇）](https://github.com/soapgu/PlayPen/issues/78)
+
 - IDE 杂项
   - [在windows系统中使用curl命令的困惑](https://github.com/soapgu/PlayPen/issues/75)
 
+
+## Apple
+
+- 环境 杂项
+  - [Mac M1各种填坑以及经验心得汇总](https://github.com/soapgu/PlayPen/issues/76)
