@@ -10,6 +10,7 @@
 
 ------
 
+
 ## 安卓
 
 ![](/images/logo_android.png)
@@ -126,6 +127,8 @@
   - [使用Gradle创建并完成一个JAVA程序](https://github.com/soapgu/PlayPen/issues/71)
 
   - [使用高精度定时装置来完成App的日间模式&夜间模式切换](https://github.com/soapgu/PlayPen/issues/74)
+  
+  - [用文件IO的方式操作GPIO来控制屏幕开关](https://github.com/soapgu/PlayPen/issues/81)
 
 - 签名
   
@@ -165,6 +168,12 @@
 
   - [二维码学习Zxing（三）——生成展示二维码](https://github.com/soapgu/PlayPen/issues/61)
 
+- 蓝牙
+  
+  - [蓝牙（一）——基础使用及BLE扫描](https://github.com/soapgu/PlayPen/issues/89)
+  
+  - [蓝牙（二）——iBeacon协议的Android实现](https://github.com/soapgu/PlayPen/issues/90)
+
 - 异常判断
 
   - [FragmentManager执行commit的IllegalStateException异常成因及解决](https://github.com/soapgu/PlayPen/issues/49)
@@ -176,6 +185,12 @@
   - [冷知识——解决模态框弹框破坏沉浸式全屏模式](https://github.com/soapgu/PlayPen/issues/65)
 
   - [coding持续集成吐血升级Gradle之旅](https://github.com/soapgu/PlayPen/issues/67)
+  
+  - [关于解决https证书验证问题](https://github.com/soapgu/PlayPen/issues/83)
+  
+  - [换肤引发的血案（所有系统自动重建fragment相关）](https://github.com/soapgu/PlayPen/issues/84)
+  
+  - [Hilt——增加@HiltAndroidApp标记构建失败问题解决——不要被表面的报错误导](https://github.com/soapgu/PlayPen/issues/88)
 
 - 安卓自动化之旅
   
@@ -203,3 +218,23 @@
 
 - 环境 杂项
   - [Mac M1各种填坑以及经验心得汇总](https://github.com/soapgu/PlayPen/issues/76)
+  
+  - [Swift——怎么管理第三方依赖库CocoaPods 初见](https://github.com/soapgu/PlayPen/issues/86)
+
+- 入门
+  - [Swift Zero（first program)](https://github.com/soapgu/PlayPen/issues/79)
+  
+  - [Swift Mac App (一) ](https://github.com/soapgu/PlayPen/issues/80)
+  
+  - [Swift Mac App (二)](https://github.com/soapgu/PlayPen/issues/82)
+  
+  - [Swift 语法小洁——闭包](https://github.com/soapgu/PlayPen/issues/85)
+  
+  - [Swift——SwiftUI（一）](https://github.com/soapgu/PlayPen/issues/87)
+  
+  - [Swift 语法小洁——闭包捕获列表](https://github.com/soapgu/PlayPen/issues/92)
+
+- 应用&Research
+  - [超声波传输（一）——集成QuietModemKit](https://github.com/soapgu/PlayPen/issues/91) 
+  
+  - [Hello OpenCV in macOS](https://github.com/soapgu/PlayPen/issues/93)
