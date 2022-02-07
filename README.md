@@ -211,6 +211,9 @@
 - IDE 杂项
   - [在windows系统中使用curl命令的困惑](https://github.com/soapgu/PlayPen/issues/75)
 
+- Research
+  - [安卓反编译apk以及得到&支付宝源码分析](https://github.com/soapgu/PlayPen/issues/96)
+
 
 ## Apple
 
@@ -220,6 +223,8 @@
   - [Mac M1各种填坑以及经验心得汇总](https://github.com/soapgu/PlayPen/issues/76)
   
   - [Swift——怎么管理第三方依赖库CocoaPods 初见](https://github.com/soapgu/PlayPen/issues/86)
+
+  - [XCode 编写代码 函数提示小技巧](https://github.com/soapgu/PlayPen/issues/98)
 
 - 入门
   - [Swift Zero（first program)](https://github.com/soapgu/PlayPen/issues/79)
@@ -234,7 +239,26 @@
   
   - [Swift 语法小洁——闭包捕获列表](https://github.com/soapgu/PlayPen/issues/92)
 
+  - [Auto Layout](https://github.com/soapgu/PlayPen/issues/97)
+
 - 应用&Research
   - [超声波传输（一）——集成QuietModemKit](https://github.com/soapgu/PlayPen/issues/91) 
   
   - [Hello OpenCV in macOS](https://github.com/soapgu/PlayPen/issues/93)
+
+  - [Hello OpenCV on iOS](https://github.com/soapgu/PlayPen/issues/94)
+
+  - [Hello OpenCV on mac App](https://github.com/soapgu/PlayPen/issues/95)
+
+- RxSwift
+ - [RxSwift学习——（Zero）](https://github.com/soapgu/PlayPen/issues/99)
+
+ - [RxSwift 学习——(一)](https://github.com/soapgu/PlayPen/issues/100)
+
+ - [RxSwift学习与第三方网络库RxAlamofire结合使用——（二）](https://github.com/soapgu/PlayPen/issues/101)
+
+ - [RxSwift学习与第三方网络库（RxAlamofire与Moya）选型———（三）](https://github.com/soapgu/PlayPen/issues/102)
+
+ - [改造集成QuietModemKit（上）——RxSwift学习(三)&超声波传输（二）](https://github.com/soapgu/PlayPen/issues/103)
+
+ - [改造集成QuietModemKit（下）——RxSwift学习(三)&超声波传输（二）](https://github.com/soapgu/PlayPen/issues/104)
