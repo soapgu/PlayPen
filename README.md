@@ -84,6 +84,10 @@
   
   - [Http神器组件Retrofit的使用（一）](https://github.com/soapgu/PlayPen/issues/47)
   
+  - [Http神器组件Retrofit的使用（二）——mock in Retrofit](https://github.com/soapgu/PlayPen/issues/111)
+
+  - [Http神器组件Retrofit的使用（三）——mock 加强篇](https://github.com/soapgu/PlayPen/issues/112)
+
 - Android 四大组件
   
   - [Android四大组件之Service](https://github.com/soapgu/PlayPen/issues/39) 
@@ -192,6 +196,12 @@
   
   - [Hilt——增加@HiltAndroidApp标记构建失败问题解决——不要被表面的报错误导](https://github.com/soapgu/PlayPen/issues/88)
 
+  - [在安卓9以上系统里应用使用http通信配置](https://github.com/soapgu/PlayPen/issues/109)
+
+  - [Gradle 升级到 7.1.1 遇到的问题及解决](https://github.com/soapgu/PlayPen/issues/110)
+
+  - [使用system权限用户后，WebView 不能加载问题解决](https://github.com/soapgu/PlayPen/issues/113s)
+
 - 安卓自动化之旅
   
   - [安卓自动化之旅（一）——gradle命令行及环境配置](https://github.com/soapgu/PlayPen/issues/59)
@@ -241,6 +251,10 @@
 
   - [Auto Layout](https://github.com/soapgu/PlayPen/issues/97)
 
+  - [Layout in Code](https://github.com/soapgu/PlayPen/issues/105)
+
+  - [UITableViewController Basic](https://github.com/soapgu/PlayPen/issues/106)
+
 - 应用&Research
   - [超声波传输（一）——集成QuietModemKit](https://github.com/soapgu/PlayPen/issues/91) 
   
@@ -262,3 +276,9 @@
  - [改造集成QuietModemKit（上）——RxSwift学习(三)&超声波传输（二）](https://github.com/soapgu/PlayPen/issues/103)
 
  - [改造集成QuietModemKit（下）——RxSwift学习(三)&超声波传输（二）](https://github.com/soapgu/PlayPen/issues/104)
+
+- Paging in Swift
+
+ - [在Swift的“无限流” （一）——前期准备](https://github.com/soapgu/PlayPen/issues/107)
+
+ - [在Swift的“无限流” （二）——代码实践](https://github.com/soapgu/PlayPen/issues/108)
