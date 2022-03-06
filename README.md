@@ -80,6 +80,10 @@
   
   - [LiveData系列二——组件内使用observe是this还是getViewLifecycleOwner()?](https://github.com/soapgu/PlayPen/issues/63)
 
+- Android Navigation
+
+  - [Navigation in Android (一)](https://github.com/soapgu/PlayPen/issues/114)
+
 - Http Client Retrofit
   
   - [Http神器组件Retrofit的使用（一）](https://github.com/soapgu/PlayPen/issues/47)
@@ -202,6 +206,10 @@
 
   - [使用system权限用户后，WebView 不能加载问题解决](https://github.com/soapgu/PlayPen/issues/113s)
 
+  - [解决Retrofit不使用baseUrl的Http交互以及github的issue不能上传图床的问题](https://github.com/soapgu/PlayPen/issues/115)
+
+  - [关于Fragment以及嵌套子Fragment的堆栈以及退栈问题](https://github.com/soapgu/PlayPen/issues/117)
+
 - 安卓自动化之旅
   
   - [安卓自动化之旅（一）——gradle命令行及环境配置](https://github.com/soapgu/PlayPen/issues/59)
@@ -219,10 +227,16 @@
   - [安卓自动化之旅（七）——短篇，优化Docker缓存（短篇）](https://github.com/soapgu/PlayPen/issues/78)
 
 - IDE 杂项
+
   - [在windows系统中使用curl命令的困惑](https://github.com/soapgu/PlayPen/issues/75)
 
 - Research
+
   - [安卓反编译apk以及得到&支付宝源码分析](https://github.com/soapgu/PlayPen/issues/96)
+  
+  - [ERP网页抓包笔记——Web反向工程（一）](https://github.com/soapgu/PlayPen/issues/116)
+
+  - [ERPViewer—— Web反向工程（二）](https://github.com/soapgu/PlayPen/issues/118)
 
 
 ## Apple
