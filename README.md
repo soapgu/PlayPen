@@ -68,6 +68,8 @@
   
   - [Android的IoC（九）—— 可空注入实现补充（0或n）](https://github.com/soapgu/PlayPen/issues/73)
 
+  - [Android的IoC——Hilt View Models注意事项，不要忘记在宿主忘记加@AndroidEntryPoint](https://github.com/soapgu/PlayPen/issues/123)
+
 - Android DataBinding
   
   - [Android 练手之旅——DataBinding简介](https://github.com/soapgu/PlayPen/issues/6)
@@ -80,9 +82,13 @@
   
   - [LiveData系列二——组件内使用observe是this还是getViewLifecycleOwner()?](https://github.com/soapgu/PlayPen/issues/63)
 
+  - [Android的下拉框——Spinner](https://github.com/soapgu/PlayPen/issues/119)
+
 - Android Navigation
 
   - [Navigation in Android (一)](https://github.com/soapgu/PlayPen/issues/114)
+
+  - [Navigation in Android (二)](https://github.com/soapgu/PlayPen/issues/122)
 
 - Http Client Retrofit
   
@@ -137,6 +143,8 @@
   - [使用高精度定时装置来完成App的日间模式&夜间模式切换](https://github.com/soapgu/PlayPen/issues/74)
   
   - [用文件IO的方式操作GPIO来控制屏幕开关](https://github.com/soapgu/PlayPen/issues/81)
+
+  - [Play rtmp in Android](https://github.com/soapgu/PlayPen/issues/120)
 
 - 签名
   
@@ -229,6 +237,8 @@
 - IDE 杂项
 
   - [在windows系统中使用curl命令的困惑](https://github.com/soapgu/PlayPen/issues/75)
+
+  - [解决无法使用ssh方式连接github的问题](https://github.com/soapgu/PlayPen/issues/121)
 
 - Research
 
