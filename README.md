@@ -84,6 +84,15 @@
 
   - [Android的下拉框——Spinner](https://github.com/soapgu/PlayPen/issues/119)
 
+  - RecyclerView
+  
+    - [Android 练手之旅——RecyclerView(一）Hello](https://github.com/soapgu/PlayPen/issues/12)
+
+    - [Android 练手之旅——RecyclerView(二）Improvement](https://github.com/soapgu/PlayPen/issues/13)
+
+    - [Android 练手之旅——RecyclerView(三）Observable](https://github.com/soapgu/PlayPen/issues/14)
+
+
 - Android Navigation
 
   - [Navigation in Android (一)](https://github.com/soapgu/PlayPen/issues/114)
@@ -153,13 +162,6 @@
   - [签名三部曲（二）——如何让你的Android应用开挂](https://github.com/soapgu/PlayPen/issues/64)
   
   - [签名三部曲（三）——签名原理及总结（埋坑）]()
-
-- RecyclerView
-  - [Android 练手之旅——RecyclerView(一）Hello](https://github.com/soapgu/PlayPen/issues/12)
-
-  - [Android 练手之旅——RecyclerView(二）Improvement](https://github.com/soapgu/PlayPen/issues/13)
-
-  - [Android 练手之旅——RecyclerView(三）Observable](https://github.com/soapgu/PlayPen/issues/14)
 
 - [Android 练手之旅——初见Fragment](https://github.com/soapgu/PlayPen/issues/15)
   
