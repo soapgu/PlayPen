@@ -92,12 +92,20 @@
 
     - [Android 练手之旅——RecyclerView(三）Observable](https://github.com/soapgu/PlayPen/issues/14)
 
+    - [RecyclerView（四）—— 数据项视图自定义绑定多个数据对象](https://github.com/soapgu/PlayPen/issues/126)
+
+  - [ViewPager2](https://github.com/soapgu/PlayPen/issues/124)
+
 
 - Android Navigation
 
   - [Navigation in Android (一)](https://github.com/soapgu/PlayPen/issues/114)
 
   - [Navigation in Android (二)](https://github.com/soapgu/PlayPen/issues/122)
+
+  - [Navigation in Android (三)&BottomSheetDialog](https://github.com/soapgu/PlayPen/issues/125)
+
+  - [Navigation in Android (四)——share ViewModel in Navigation](https://github.com/soapgu/PlayPen/issues/127)
 
 - Http Client Retrofit
   
