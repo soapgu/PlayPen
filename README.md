@@ -162,6 +162,18 @@
   - [用文件IO的方式操作GPIO来控制屏幕开关](https://github.com/soapgu/PlayPen/issues/81)
 
   - [Play rtmp in Android](https://github.com/soapgu/PlayPen/issues/120)
+  
+  - [Android interactive with WebView](https://github.com/soapgu/PlayPen/issues/128)
+  
+  - [一周安卓开发问题汇总总结（一)](https://github.com/soapgu/PlayPen/issues/129)
+  
+  - [Style&Theme in Android](https://github.com/soapgu/PlayPen/issues/130)
+  
+  - [致命的Theme错误]((https://github.com/soapgu/PlayPen/issues/131)
+  
+  - [UIPickerView in Android](https://github.com/soapgu/PlayPen/issues/132)
+  
+  - [一周安卓开发问题汇总（二）](https://github.com/soapgu/PlayPen/issues/133)
 
 - 签名
   
