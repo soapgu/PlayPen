@@ -69,6 +69,8 @@
   - [Android的IoC（九）—— 可空注入实现补充（0或n）](https://github.com/soapgu/PlayPen/issues/73)
 
   - [Android的IoC——Hilt View Models注意事项，不要忘记在宿主忘记加@AndroidEntryPoint](https://github.com/soapgu/PlayPen/issues/123)
+  
+  - [深入RxJava之Subject](https://github.com/soapgu/PlayPen/issues/138)
 
 - Android DataBinding
   
@@ -106,6 +108,8 @@
   - [Navigation in Android (三)&BottomSheetDialog](https://github.com/soapgu/PlayPen/issues/125)
 
   - [Navigation in Android (四)——share ViewModel in Navigation](https://github.com/soapgu/PlayPen/issues/127)
+  
+  - [Navigation in Android (五)——多返回栈技术](https://github.com/soapgu/PlayPen/issues/137)
 
 - Http Client Retrofit
   
@@ -114,6 +118,8 @@
   - [Http神器组件Retrofit的使用（二）——mock in Retrofit](https://github.com/soapgu/PlayPen/issues/111)
 
   - [Http神器组件Retrofit的使用（三）——mock 加强篇](https://github.com/soapgu/PlayPen/issues/112)
+  
+  - [Http神器组件Retrofit的使用（四）——Http神器组件Retrofit的使用（四）——忽略body的表达](https://github.com/soapgu/PlayPen/issues/135)
 
 - Android 四大组件
   
@@ -174,6 +180,10 @@
   - [UIPickerView in Android](https://github.com/soapgu/PlayPen/issues/132)
   
   - [一周安卓开发问题汇总（二）](https://github.com/soapgu/PlayPen/issues/133)
+  
+  - [一周安卓开发问题汇总（三）](https://github.com/soapgu/PlayPen/issues/134)
+  
+  - [一周安卓开发问题汇总（四）](https://github.com/soapgu/PlayPen/issues/136)
 
 - 签名
   
