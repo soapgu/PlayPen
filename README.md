@@ -184,6 +184,8 @@
   - [一周安卓开发问题汇总（三）](https://github.com/soapgu/PlayPen/issues/134)
   
   - [一周安卓开发问题汇总（四）](https://github.com/soapgu/PlayPen/issues/136)
+   
+  - [一周安卓开发问题汇总（五）](https://github.com/soapgu/PlayPen/issues/139)
 
 - 签名
   
