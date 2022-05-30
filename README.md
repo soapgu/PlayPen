@@ -86,7 +86,7 @@
 
   - [Android的下拉框——Spinner](https://github.com/soapgu/PlayPen/issues/119)
 
-  - RecyclerView
+  - RecyclerView & ViewPager2
   
     - [Android 练手之旅——RecyclerView(一）Hello](https://github.com/soapgu/PlayPen/issues/12)
 
@@ -97,7 +97,10 @@
     - [RecyclerView（四）—— 数据项视图自定义绑定多个数据对象](https://github.com/soapgu/PlayPen/issues/126)
 
   - [ViewPager2](https://github.com/soapgu/PlayPen/issues/124)
+   
+  - [解决SwipeRefreshLayout与ViewPager2 操作冲突造成不适的体验感](https://github.com/soapgu/PlayPen/issues/140)
 
+  - [TabLayout&ViewPager2梦幻联动](https://github.com/soapgu/PlayPen/issues/142)
 
 - Android Navigation
 
@@ -186,6 +189,10 @@
   - [一周安卓开发问题汇总（四）](https://github.com/soapgu/PlayPen/issues/136)
    
   - [一周安卓开发问题汇总（五）](https://github.com/soapgu/PlayPen/issues/139)
+  
+  - [Drag&Drop in Android](https://github.com/soapgu/PlayPen/issues/144)
+  
+  - [怎么去掉报文中的转义符（杂记）](https://github.com/soapgu/PlayPen/issues/147)
 
 - 签名
   
@@ -251,6 +258,12 @@
   - [解决Retrofit不使用baseUrl的Http交互以及github的issue不能上传图床的问题](https://github.com/soapgu/PlayPen/issues/115)
 
   - [关于Fragment以及嵌套子Fragment的堆栈以及退栈问题](https://github.com/soapgu/PlayPen/issues/117)
+  
+  - [解决Android Studio 的模拟器时间显示和本地不一致的问题](https://github.com/soapgu/PlayPen/issues/143)
+  
+  - [CertPathValidatorException: Trust anchor for certification path not found 解决](https://github.com/soapgu/PlayPen/issues/145)
+  
+  - [解决gson匿名初始化对象不能序列化的问题](https://github.com/soapgu/PlayPen/issues/146)
 
 - 安卓自动化之旅
   
@@ -281,6 +294,8 @@
   - [ERP网页抓包笔记——Web反向工程（一）](https://github.com/soapgu/PlayPen/issues/116)
 
   - [ERPViewer—— Web反向工程（二）](https://github.com/soapgu/PlayPen/issues/118)
+  
+  - [番外篇补充 Android-ErpViewer —— Web反向工程（三）](https://github.com/soapgu/PlayPen/issues/141)
 
 
 ## Apple
