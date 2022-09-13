@@ -48,6 +48,8 @@
     
     - [深入RxJava之Maybe——让Coroutine更优雅](https://github.com/soapgu/PlayPen/issues/72)
 
+    - [深入RxJava之Completable杂记汇总](https://github.com/soapgu/PlayPen/issues/148)
+
 - IoC(Inversion of Control)/DI(Dependency injection)
   
   - [Android的IoC（一）——dagger 初见](https://github.com/soapgu/PlayPen/issues/32)  
@@ -85,6 +87,10 @@
   - [LiveData系列二——组件内使用observe是this还是getViewLifecycleOwner()?](https://github.com/soapgu/PlayPen/issues/63)
 
   - [Android的下拉框——Spinner](https://github.com/soapgu/PlayPen/issues/119)
+
+  - [Android的下拉框（二）——AutoCompleteTextView](https://github.com/soapgu/PlayPen/issues/150)
+
+  - [TextInputLayout+AutoCompleteTextView的自定义BindingAdapter](https://github.com/soapgu/PlayPen/issues/151)
 
   - RecyclerView & ViewPager2
   
@@ -138,6 +144,8 @@
   - [Android学习之旅——Android 调试桥 (adb)初见](https://github.com/soapgu/PlayPen/issues/10)
 
   - [ADB调试手册](https://github.com/soapgu/PlayPen/issues/22)
+
+  - [安卓自动化交互——adb番外篇 ](https://github.com/soapgu/PlayPen/issues/153)
   
 - 杂记 
   - [Android 练手之旅——零碎知识](https://github.com/soapgu/PlayPen/issues/8)
@@ -265,6 +273,8 @@
   
   - [解决gson匿名初始化对象不能序列化的问题](https://github.com/soapgu/PlayPen/issues/146)
 
+  - [实现摄像头的预览拍照+解决摄像头接线错误造成的显示问题](https://github.com/soapgu/PlayPen/issues/152)
+
 - 安卓自动化之旅
   
   - [安卓自动化之旅（一）——gradle命令行及环境配置](https://github.com/soapgu/PlayPen/issues/59)
@@ -328,6 +338,8 @@
 
   - [UITableViewController Basic](https://github.com/soapgu/PlayPen/issues/106)
 
+  - [Swift——SwiftUI（二）](https://github.com/soapgu/PlayPen/issues/149)
+
 - 应用&Research
   - [超声波传输（一）——集成QuietModemKit](https://github.com/soapgu/PlayPen/issues/91) 
   
@@ -355,3 +367,35 @@
  - [在Swift的“无限流” （一）——前期准备](https://github.com/soapgu/PlayPen/issues/107)
 
  - [在Swift的“无限流” （二）——代码实践](https://github.com/soapgu/PlayPen/issues/108)
+
+ ## Git
+
+ - [Git学习笔记摘要1——概要](https://github.com/soapgu/PlayPen/issues/154)
+
+ - [Git学习笔记摘要2——分支集成策略](https://github.com/soapgu/PlayPen/issues/155)
+
+ - [Git学习笔记摘要3——重点练习解惑](https://github.com/soapgu/PlayPen/issues/156)
+
+ - [Git学习笔记摘要4——比较合并工具设置](https://github.com/soapgu/PlayPen/issues/157)
+
+ - [Get started with GitHub Actions](https://github.com/soapgu/PlayPen/issues/158)
+
+ - [重新开始认识Git——Git内部结构](https://github.com/soapgu/PlayPen/issues/159)
+
+ - Git 0.99版本源码系列
+
+  - [Git源码学习系列（一）——git status](https://github.com/soapgu/PlayPen/issues/160)
+
+  - [Git源码学习系列（二）——git-init-db&git-update-cache](https://github.com/soapgu/PlayPen/issues/161)
+
+  - [Git源码学习系列（三）——git-write-tree&git-commit-tree](https://github.com/soapgu/PlayPen/issues/162)
+
+  - [Git源码学习系列（四）——git checkout&git-read-tree](https://github.com/soapgu/PlayPen/issues/163)
+
+  - [Git源码学习系列（五）——git checkout&git-checkout-cache](https://github.com/soapgu/PlayPen/issues/164)
+
+  - [Git源码学习系列（六）——git clone](https://github.com/soapgu/PlayPen/issues/165)
+
+  - [Git源码学习系列（七）——git merge](https://github.com/soapgu/PlayPen/issues/166)
+
+  - [Git源码学习系列（八）——git rebase](https://github.com/soapgu/PlayPen/issues/167)
