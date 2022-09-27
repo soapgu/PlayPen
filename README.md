@@ -19,6 +19,9 @@
 
 
 - 起步
+
+  - [Android快速入门索引整理](https://github.com/soapgu/PlayPen/issues/168)
+
   - [Android学习之旅——Hello World](https://github.com/soapgu/PlayPen/issues/1)
   
   - [Android学习之旅——First Android App](https://github.com/soapgu/PlayPen/issues/2)
@@ -201,6 +204,8 @@
   - [Drag&Drop in Android](https://github.com/soapgu/PlayPen/issues/144)
   
   - [怎么去掉报文中的转义符（杂记）](https://github.com/soapgu/PlayPen/issues/147)
+
+  - [安卓实现RTSP播放器](https://github.com/soapgu/PlayPen/issues/169)
 
 - 签名
   
