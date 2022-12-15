@@ -189,7 +189,7 @@
   
   - [Style&Theme in Android](https://github.com/soapgu/PlayPen/issues/130)
   
-  - [致命的Theme错误]((https://github.com/soapgu/PlayPen/issues/131)
+  - [致命的Theme错误](https://github.com/soapgu/PlayPen/issues/131)
   
   - [UIPickerView in Android](https://github.com/soapgu/PlayPen/issues/132)
   
@@ -207,6 +207,8 @@
 
   - [安卓实现RTSP播放器](https://github.com/soapgu/PlayPen/issues/169)
 
+  - [PDF in Android](https://github.com/soapgu/PlayPen/issues/170)
+
 - 签名
   
   - [Android编译杂谈（应用ID，Build 类型，应用签名）](https://github.com/soapgu/PlayPen/issues/36) 
@@ -218,6 +220,7 @@
 - [Android 练手之旅——初见Fragment](https://github.com/soapgu/PlayPen/issues/15)
   
 - androidx.paging3
+
   - [Android分页库（一）——Paging使用的动机及准备工作](https://github.com/soapgu/PlayPen/issues/17)
 
   - [Android分页库（二）——Paging基础实现](https://github.com/soapgu/PlayPen/issues/18)
@@ -225,9 +228,11 @@
   - [Android分页库（三）——Paging完善](https://github.com/soapgu/PlayPen/issues/21)
      
 - 安卓任务
+  
   - [安卓的任务和返回堆栈](https://github.com/soapgu/PlayPen/issues/23)
   
   - [Android的返回堆栈&多任务&生命周期的一些思考](https://github.com/soapgu/PlayPen/issues/24)
+
 - 存储
   - [Android的外部存储空间（短篇）](https://github.com/soapgu/PlayPen/issues/44)
 
@@ -280,6 +285,8 @@
 
   - [实现摄像头的预览拍照+解决摄像头接线错误造成的显示问题](https://github.com/soapgu/PlayPen/issues/152)
 
+  - [一个‘}’引发的惨案，一个非典型性思维盲区bug](https://github.com/soapgu/PlayPen/issues/173)
+
 - 安卓自动化之旅
   
   - [安卓自动化之旅（一）——gradle命令行及环境配置](https://github.com/soapgu/PlayPen/issues/59)
@@ -295,6 +302,18 @@
   - [安卓自动化之旅（六）——使用Coding&Docker持续集成安卓项目](https://github.com/soapgu/PlayPen/issues/77)
   
   - [安卓自动化之旅（七）——短篇，优化Docker缓存（短篇）](https://github.com/soapgu/PlayPen/issues/78)
+
+- 安卓TDD之旅
+  
+  - [Andriod 单元测试（一）—— 快速入门 ](https://github.com/soapgu/PlayPen/issues/177)
+
+  - [Andriod 单元测试（二）—— 与Github的Actions集成](https://github.com/soapgu/PlayPen/issues/178)
+
+  - [Andriod 单元测试（三）—— 怎么测试RxJava](https://github.com/soapgu/PlayPen/issues/179)
+
+  - [Andriod 单元测试（四）—— Robolectric&Mockito](https://github.com/soapgu/PlayPen/issues/180)
+
+  - [Andriod 单元测试（五）——测试Hilt组件 ](https://github.com/soapgu/PlayPen/issues/182)
 
 - IDE 杂项
 
@@ -344,6 +363,10 @@
   - [UITableViewController Basic](https://github.com/soapgu/PlayPen/issues/106)
 
   - [Swift——SwiftUI（二）](https://github.com/soapgu/PlayPen/issues/149)
+
+  - [MVVM初步——SwiftUI学习系列（三）](https://github.com/soapgu/PlayPen/issues/172)
+
+  - [MVVM 进一步的探索——SwiftUI学习系列（四）](https://github.com/soapgu/PlayPen/issues/175)
 
 - 应用&Research
   - [超声波传输（一）——集成QuietModemKit](https://github.com/soapgu/PlayPen/issues/91) 
@@ -404,3 +427,7 @@
   - [Git源码学习系列（七）——git merge](https://github.com/soapgu/PlayPen/issues/166)
 
   - [Git源码学习系列（八）——git rebase](https://github.com/soapgu/PlayPen/issues/167)
+
+  - [Git实践篇](https://github.com/soapgu/PlayPen/issues/171)
+
+  - [Git原理以及使用分享（周五分享）](https://github.com/soapgu/PlayPen/issues/176)
