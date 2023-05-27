@@ -53,6 +53,8 @@
 
     - [深入RxJava之Completable杂记汇总](https://github.com/soapgu/PlayPen/issues/148)
 
+    - [深入RxJava之时间管理大师](https://github.com/soapgu/PlayPen/issues/198)
+
 - IoC(Inversion of Control)/DI(Dependency injection)
   
   - [Android的IoC（一）——dagger 初见](https://github.com/soapgu/PlayPen/issues/32)  
@@ -122,6 +124,10 @@
   - [Navigation in Android (四)——share ViewModel in Navigation](https://github.com/soapgu/PlayPen/issues/127)
   
   - [Navigation in Android (五)——多返回栈技术](https://github.com/soapgu/PlayPen/issues/137)
+
+  - [Navigation in Android (六)——如何从导航中优雅的退栈](https://github.com/soapgu/PlayPen/issues/184)
+
+  - [Navigation in Android (六) ——关于安卓“返回”按键的干预处理](https://github.com/soapgu/PlayPen/issues/201)
 
 - Http Client Retrofit
   
@@ -209,6 +215,24 @@
 
   - [PDF in Android](https://github.com/soapgu/PlayPen/issues/170)
 
+  - [怎么获取安卓系统的“身份证”？](https://github.com/soapgu/PlayPen/issues/185)
+
+  - [Android 如何获取签名证书的SHA256](https://github.com/soapgu/PlayPen/issues/186)
+
+  - [音频可视化（一）——理论基础及基本概念](https://github.com/soapgu/PlayPen/issues/188)
+
+  - [音频可视化（二）——Android实现](https://github.com/soapgu/PlayPen/issues/190)
+
+  - [Baidu地图安卓SDK使用](https://github.com/soapgu/PlayPen/issues/191)
+
+  - [安卓使用自定义字体](https://github.com/soapgu/PlayPen/issues/194)
+
+  - [如何查看安卓系统的CPU型号，比如armeabi，armeabi-v7a，还是arm64-v8a](如何查看安卓系统的CPU型号，比如armeabi，armeabi-v7a，还是arm64-v8a)
+
+  - [在安卓辅屏展示界面](https://github.com/soapgu/PlayPen/issues/197)
+
+  - [PopupMenu in Android](https://github.com/soapgu/PlayPen/issues/200)
+
 - 签名
   
   - [Android编译杂谈（应用ID，Build 类型，应用签名）](https://github.com/soapgu/PlayPen/issues/36) 
@@ -287,6 +311,8 @@
 
   - [一个‘}’引发的惨案，一个非典型性思维盲区bug](https://github.com/soapgu/PlayPen/issues/173)
 
+  - [manifest合并报错——一个残余问题](https://github.com/soapgu/PlayPen/issues/192)
+
 - 安卓自动化之旅
   
   - [安卓自动化之旅（一）——gradle命令行及环境配置](https://github.com/soapgu/PlayPen/issues/59)
@@ -320,6 +346,12 @@
   - [在windows系统中使用curl命令的困惑](https://github.com/soapgu/PlayPen/issues/75)
 
   - [解决无法使用ssh方式连接github的问题](https://github.com/soapgu/PlayPen/issues/121)
+
+  - [用ClashX的坑，用的小伙伴注意](https://github.com/soapgu/PlayPen/issues/183)
+
+  - [解决使用https协议获取github仓库成功率低速度慢的问题](https://github.com/soapgu/PlayPen/issues/189)
+
+  - [揭秘安卓模拟器以及坑爹Unknown Host的问题](https://github.com/soapgu/PlayPen/issues/199)
 
 - Research
 
@@ -367,6 +399,8 @@
   - [MVVM初步——SwiftUI学习系列（三）](https://github.com/soapgu/PlayPen/issues/172)
 
   - [MVVM 进一步的探索——SwiftUI学习系列（四）](https://github.com/soapgu/PlayPen/issues/175)
+
+  - [SwiftUI的更新界面的原理](https://github.com/soapgu/PlayPen/issues/187)
 
 - 应用&Research
   - [超声波传输（一）——集成QuietModemKit](https://github.com/soapgu/PlayPen/issues/91) 
@@ -431,3 +465,9 @@
   - [Git实践篇](https://github.com/soapgu/PlayPen/issues/171)
 
   - [Git原理以及使用分享（周五分享）](https://github.com/soapgu/PlayPen/issues/176)
+
+  ## Windows
+
+  - [WPF捕获键盘事件](https://github.com/soapgu/PlayPen/issues/193)
+
+  - [windows端使用原生的websocket组件以及操作LongRunning的Task](https://github.com/soapgu/PlayPen/issues/195)
