@@ -233,6 +233,14 @@
 
   - [PopupMenu in Android](https://github.com/soapgu/PlayPen/issues/200)
 
+  - [VideoView的屏幕适配策略](https://github.com/soapgu/PlayPen/issues/202)
+
+  - [localization in Android](https://github.com/soapgu/PlayPen/issues/203)
+
+  - [ORMapping in Android](https://github.com/soapgu/PlayPen/issues/204)
+
+  - [第三方代码修改神器——reflect in JAVA](https://github.com/soapgu/PlayPen/issues/205)
+
 - 签名
   
   - [Android编译杂谈（应用ID，Build 类型，应用签名）](https://github.com/soapgu/PlayPen/issues/36) 
@@ -313,6 +321,8 @@
 
   - [manifest合并报错——一个残余问题](https://github.com/soapgu/PlayPen/issues/192)
 
+  - [Android Http Exception](https://github.com/soapgu/PlayPen/issues/207)
+
 - 安卓自动化之旅
   
   - [安卓自动化之旅（一）——gradle命令行及环境配置](https://github.com/soapgu/PlayPen/issues/59)
@@ -363,7 +373,16 @@
   
   - [番外篇补充 Android-ErpViewer —— Web反向工程（三）](https://github.com/soapgu/PlayPen/issues/141)
 
+  - Flutter Tour
 
+    - [Flutter Tour——Install&Setup in macOS](https://github.com/soapgu/PlayPen/issues/208)
+
+    - [Flutter Tour——First Application](https://github.com/soapgu/PlayPen/issues/209)
+
+    - [Flutter Tour——Integrate in Flutter](https://github.com/soapgu/PlayPen/issues/210)
+
+    - [Flutter Tour——dart Framework in Flutter](https://github.com/soapgu/PlayPen/issues/211)
+    
 ## Apple
 
 ![](/images/logo_apple.png)
@@ -374,6 +393,8 @@
   - [Swift——怎么管理第三方依赖库CocoaPods 初见](https://github.com/soapgu/PlayPen/issues/86)
 
   - [XCode 编写代码 函数提示小技巧](https://github.com/soapgu/PlayPen/issues/98)
+
+  - [NTFS in macOS](https://github.com/soapgu/PlayPen/issues/206)
 
 - 入门
   - [Swift Zero（first program)](https://github.com/soapgu/PlayPen/issues/79)
