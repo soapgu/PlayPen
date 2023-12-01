@@ -10,6 +10,19 @@
 
 ------
 
+## 通用知识点
+
+- [聊一聊UTF-8编码](https://github.com/soapgu/PlayPen/issues/220)
+
+- [在Github上配置2FA(双重身份验证)](https://github.com/soapgu/PlayPen/issues/224)
+
+## 常规问题
+
+- [Flask的application/json返回类型中文编码非UTF-8的问题详解](https://github.com/soapgu/PlayPen/issues/225)
+
+- [Nodejs报错digital envelope routines::unsupported原因以及解决](https://github.com/soapgu/PlayPen/issues/229)
+
+
 
 ## 安卓
 
@@ -55,6 +68,8 @@
 
     - [深入RxJava之时间管理大师](https://github.com/soapgu/PlayPen/issues/198)
 
+    - [深入RxJava——UndeliverableException之谜](https://github.com/soapgu/PlayPen/issues/213)
+
 - IoC(Inversion of Control)/DI(Dependency injection)
   
   - [Android的IoC（一）——dagger 初见](https://github.com/soapgu/PlayPen/issues/32)  
@@ -96,6 +111,8 @@
   - [Android的下拉框（二）——AutoCompleteTextView](https://github.com/soapgu/PlayPen/issues/150)
 
   - [TextInputLayout+AutoCompleteTextView的自定义BindingAdapter](https://github.com/soapgu/PlayPen/issues/151)
+
+  - [DataBinding 补充篇](https://github.com/soapgu/PlayPen/issues/227)
 
   - RecyclerView & ViewPager2
   
@@ -139,6 +156,8 @@
   
   - [Http神器组件Retrofit的使用（四）——Http神器组件Retrofit的使用（四）——忽略body的表达](https://github.com/soapgu/PlayPen/issues/135)
 
+  - [理解HTTP协议中的multipart/form-data和客户端实现](https://github.com/soapgu/PlayPen/issues/232)
+
 - Android 四大组件
   
   - [Android四大组件之Service](https://github.com/soapgu/PlayPen/issues/39) 
@@ -148,6 +167,18 @@
   - [Android四大组件之Broadcast补充篇](https://github.com/soapgu/PlayPen/issues/40) 
   
   - [Android四大组件之Service回调补充](https://github.com/soapgu/PlayPen/issues/41)
+
+  - [Android四大组件之Service之进阶调查](https://github.com/soapgu/PlayPen/issues/212)
+
+  - [Android四大组件之广播——详解全局BroadcastReceiver](https://github.com/soapgu/PlayPen/issues/221)
+
+- WorkManager
+  
+  - [WorkManager in Android 1 —— 初见](https://github.com/soapgu/PlayPen/issues/215)
+
+  - [WorkManager in Android 2——高级用法](https://github.com/soapgu/PlayPen/issues/218)
+
+  - [WorkManager in Android 3——RxJava以及IoC集成](https://github.com/soapgu/PlayPen/issues/219)
   
 - adb
   - [Android学习之旅——Android 调试桥 (adb)初见](https://github.com/soapgu/PlayPen/issues/10)
@@ -241,6 +272,10 @@
 
   - [第三方代码修改神器——reflect in JAVA](https://github.com/soapgu/PlayPen/issues/205)
 
+  - [Android对接Exchange Web Services (EWS)服务](https://github.com/soapgu/PlayPen/issues/222)
+
+  - [怎么使用productFlavors和buildConfig对安卓进行灵活配置](https://github.com/soapgu/PlayPen/issues/223)
+
 - 签名
   
   - [Android编译杂谈（应用ID，Build 类型，应用签名）](https://github.com/soapgu/PlayPen/issues/36) 
@@ -323,6 +358,11 @@
 
   - [Android Http Exception](https://github.com/soapgu/PlayPen/issues/207)
 
+  - [“祖传项目”的NDK编译问题](https://github.com/soapgu/PlayPen/issues/216)
+
+  - [python使用pip3安装包失败的问题](https://github.com/soapgu/PlayPen/issues/217)
+
+
 - 安卓自动化之旅
   
   - [安卓自动化之旅（一）——gradle命令行及环境配置](https://github.com/soapgu/PlayPen/issues/59)
@@ -382,6 +422,20 @@
     - [Flutter Tour——Integrate in Flutter](https://github.com/soapgu/PlayPen/issues/210)
 
     - [Flutter Tour——dart Framework in Flutter](https://github.com/soapgu/PlayPen/issues/211)
+
+    - [Flutter Tour——Hello World Windows Application](https://github.com/soapgu/PlayPen/issues/214)
+
+  - MuPdf
+
+    - [Research MuPdf（一）——Android Open Source Version](https://github.com/soapgu/PlayPen/issues/230)
+
+    - [Research MuPdf（二）——App Kit （Commercial license）](https://github.com/soapgu/PlayPen/issues/231)
+
+- 经验总结
+
+  - [安卓定制化项目经验总结](https://github.com/soapgu/PlayPen/issues/226)
+
+  - [安卓程序依赖冲突解决心得](https://github.com/soapgu/PlayPen/issues/228)
     
 ## Apple
 
