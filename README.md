@@ -70,6 +70,8 @@
 
     - [深入RxJava——UndeliverableException之谜](https://github.com/soapgu/PlayPen/issues/213)
 
+    - [深入RxJava之Subject](https://github.com/soapgu/PlayPen/issues/138)
+
 - IoC(Inversion of Control)/DI(Dependency injection)
   
   - [Android的IoC（一）——dagger 初见](https://github.com/soapgu/PlayPen/issues/32)  
@@ -275,6 +277,8 @@
   - [Android对接Exchange Web Services (EWS)服务](https://github.com/soapgu/PlayPen/issues/222)
 
   - [怎么使用productFlavors和buildConfig对安卓进行灵活配置](https://github.com/soapgu/PlayPen/issues/223)
+
+  - [利用虹软的SDK框出人脸](https://github.com/soapgu/PlayPen/issues/238)
 
 - 签名
   
@@ -546,3 +550,31 @@
   - [WPF捕获键盘事件](https://github.com/soapgu/PlayPen/issues/193)
 
   - [windows端使用原生的websocket组件以及操作LongRunning的Task](https://github.com/soapgu/PlayPen/issues/195)
+
+  ## Spring
+
+  - [Spring Boot（一）—— JPA & MySQL ](https://github.com/soapgu/PlayPen/issues/242)
+
+  - [Spring Boot（二）——JWT](https://github.com/soapgu/PlayPen/issues/243)
+
+  ## 通用
+
+ - 加解密
+  
+  - [RSA加解密（一）](https://github.com/soapgu/PlayPen/issues/233)
+
+  - [RSA加解密（二）](https://github.com/soapgu/PlayPen/issues/234)
+  
+  - [AES加解密（一）](https://github.com/soapgu/PlayPen/issues/235)
+  
+  - [AES加解密（二）](https://github.com/soapgu/PlayPen/issues/236)
+  
+  - [AES加解密（三）——自定义文件头解密安卓实现](https://github.com/soapgu/PlayPen/issues/237)
+  
+  - [简单位运算加解密实现](https://github.com/soapgu/PlayPen/issues/239)
+
+ - 爬虫
+  
+  - [网络爬虫入门（一）——Scrapy初见](https://github.com/soapgu/PlayPen/issues/240)
+  
+  - [网络爬虫入门（二）—— 预览javascript的使用](https://github.com/soapgu/PlayPen/issues/241)
