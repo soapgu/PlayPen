@@ -72,6 +72,8 @@
 
     - [深入RxJava之Subject](https://github.com/soapgu/PlayPen/issues/138)
 
+    - [深入RxJava之Connectable Observable](https://github.com/soapgu/PlayPen/issues/244)
+
 - IoC(Inversion of Control)/DI(Dependency injection)
   
   - [Android的IoC（一）——dagger 初见](https://github.com/soapgu/PlayPen/issues/32)  
@@ -159,6 +161,8 @@
   - [Http神器组件Retrofit的使用（四）——Http神器组件Retrofit的使用（四）——忽略body的表达](https://github.com/soapgu/PlayPen/issues/135)
 
   - [理解HTTP协议中的multipart/form-data和客户端实现](https://github.com/soapgu/PlayPen/issues/232)
+
+  - [如何在Retrofit中正确解析UTC时间](https://github.com/soapgu/PlayPen/issues/265)
 
 - Android 四大组件
   
@@ -280,6 +284,10 @@
 
   - [利用虹软的SDK框出人脸](https://github.com/soapgu/PlayPen/issues/238)
 
+  - [安卓投屏——初探](https://github.com/soapgu/PlayPen/issues/257)
+
+  - [安卓的的滚动栏配置](https://github.com/soapgu/PlayPen/issues/260)
+
 - 签名
   
   - [Android编译杂谈（应用ID，Build 类型，应用签名）](https://github.com/soapgu/PlayPen/issues/36) 
@@ -364,8 +372,15 @@
 
   - [“祖传项目”的NDK编译问题](https://github.com/soapgu/PlayPen/issues/216)
 
-  - [python使用pip3安装包失败的问题](https://github.com/soapgu/PlayPen/issues/217)
+  - [解决安卓老项目jcenter废弃后的编译问题](https://github.com/soapgu/PlayPen/issues/256)
 
+  - [The number of method references in a .dex file cannot exceed 64K.](https://github.com/soapgu/PlayPen/issues/258)
+
+  - [解决低版本grdle下载失败的问题](https://github.com/soapgu/PlayPen/issues/267)
+
+  - [安卓解决本地化配置问题](https://github.com/soapgu/PlayPen/issues/272)
+
+  - [解决jitpack.io的组件无法下载的问题](https://github.com/soapgu/PlayPen/issues/273)
 
 - 安卓自动化之旅
   
@@ -406,6 +421,10 @@
   - [解决使用https协议获取github仓库成功率低速度慢的问题](https://github.com/soapgu/PlayPen/issues/189)
 
   - [揭秘安卓模拟器以及坑爹Unknown Host的问题](https://github.com/soapgu/PlayPen/issues/199)
+
+  - [新版Android Studio——Ladybug 对老项目Gradle编译的适配](https://github.com/soapgu/PlayPen/issues/264)
+
+  - [Gradle版本集中化管理](https://github.com/soapgu/PlayPen/issues/271)
 
 - Research
 
@@ -453,6 +472,8 @@
   - [XCode 编写代码 函数提示小技巧](https://github.com/soapgu/PlayPen/issues/98)
 
   - [NTFS in macOS](https://github.com/soapgu/PlayPen/issues/206)
+
+  - [控制台启动报错 zsh compinit: insecure directories, run compaudit for list](https://github.com/soapgu/PlayPen/issues/261)
 
 - 入门
   - [Swift Zero（first program)](https://github.com/soapgu/PlayPen/issues/79)
@@ -523,6 +544,10 @@
 
  - [重新开始认识Git——Git内部结构](https://github.com/soapgu/PlayPen/issues/159)
 
+ - [git patch——跨项目修改](https://github.com/soapgu/PlayPen/issues/262)
+
+ - [解决Git push 失败的问题](https://github.com/soapgu/PlayPen/issues/266)
+
  - Git 0.99版本源码系列
 
   - [Git源码学习系列（一）——git status](https://github.com/soapgu/PlayPen/issues/160)
@@ -551,12 +576,43 @@
 
   - [windows端使用原生的websocket组件以及操作LongRunning的Task](https://github.com/soapgu/PlayPen/issues/195)
 
-  ## Spring
+  ## JAVA
+  
+  - Spring
 
-  - [Spring Boot（一）—— JPA & MySQL ](https://github.com/soapgu/PlayPen/issues/242)
+    - [Spring Boot（一）—— JPA & MySQL ](https://github.com/soapgu/PlayPen/issues/242)
 
-  - [Spring Boot（二）——JWT](https://github.com/soapgu/PlayPen/issues/243)
+    - [Spring Boot（二）——JWT](https://github.com/soapgu/PlayPen/issues/243)
 
+  - Activiti
+    
+    - [Activiti(一)](https://github.com/soapgu/PlayPen/issues/268)
+
+    - [Activiti(二)](https://github.com/soapgu/PlayPen/issues/269)
+
+    - [Activiti(三)](https://github.com/soapgu/PlayPen/issues/270)
+
+  ## JavaScript
+
+    - [node的VSCode IDE提示d.ts的相关代码注释是哪里来的](https://github.com/soapgu/PlayPen/issues/247)
+
+    - [CommonJS 和 ES Modules 融合实验](https://github.com/soapgu/PlayPen/issues/251)
+
+    - [修复CommonJS模块无法正确提示ES模块（index.d.ts）提示的问题](https://github.com/soapgu/PlayPen/issues/252)
+
+    - 问题
+
+      - [python使用pip3安装包失败的问题](https://github.com/soapgu/PlayPen/issues/217)
+
+      - [低级错误遭遇axios程序的“版本杀](https://github.com/soapgu/PlayPen/issues/245)
+
+      - [解决VSCode无法读取webpack的alias问题](https://github.com/soapgu/PlayPen/issues/246)
+
+      - [关于mongoose的aggregation的参数类型问题](https://github.com/soapgu/PlayPen/issues/253)
+
+      - [解决lodash在VSCode识别的问题](https://github.com/soapgu/PlayPen/issues/255)
+
+  
   ## 通用
 
  - 加解密
@@ -578,3 +634,26 @@
   - [网络爬虫入门（一）——Scrapy初见](https://github.com/soapgu/PlayPen/issues/240)
   
   - [网络爬虫入门（二）—— 预览javascript的使用](https://github.com/soapgu/PlayPen/issues/241)
+
+- Postman
+
+  - [Postman脚本入门](https://github.com/soapgu/PlayPen/issues/248)
+
+- Nginx
+  - [温故知新——Nginx的locaton配置](https://github.com/soapgu/PlayPen/issues/254)
+
+- 运维相关
+
+  - [Docker（Compose）简易运维手册](https://github.com/soapgu/PlayPen/issues/275)
+
+- 其他
+
+  - [npm发布入门](https://github.com/soapgu/PlayPen/issues/249)
+
+  - [cron入门](https://github.com/soapgu/PlayPen/issues/250)
+
+  - [SNMP的TRAP消息接受](https://github.com/soapgu/PlayPen/issues/263)
+
+  - [解决无互联网情况使用DBeaver工具连接TAOS数据库的问题](https://github.com/soapgu/PlayPen/issues/274)
+
+
