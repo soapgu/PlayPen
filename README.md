@@ -594,23 +594,22 @@
 
   ## JavaScript
 
-    - [node的VSCode IDE提示d.ts的相关代码注释是哪里来的](https://github.com/soapgu/PlayPen/issues/247)
+  - [node的VSCode IDE提示d.ts的相关代码注释是哪里来的](https://github.com/soapgu/PlayPen/issues/247)
 
-    - [CommonJS 和 ES Modules 融合实验](https://github.com/soapgu/PlayPen/issues/251)
+  - [CommonJS 和 ES Modules 融合实验](https://github.com/soapgu/PlayPen/issues/251)
 
+  - 问题
     - [修复CommonJS模块无法正确提示ES模块（index.d.ts）提示的问题](https://github.com/soapgu/PlayPen/issues/252)
+    
+    - [python使用pip3安装包失败的问题](https://github.com/soapgu/PlayPen/issues/217)
 
-    - 问题
+    - [低级错误遭遇axios程序的“版本杀](https://github.com/soapgu/PlayPen/issues/245)
 
-      - [python使用pip3安装包失败的问题](https://github.com/soapgu/PlayPen/issues/217)
+    - [解决VSCode无法读取webpack的alias问题](https://github.com/soapgu/PlayPen/issues/246)
 
-      - [低级错误遭遇axios程序的“版本杀](https://github.com/soapgu/PlayPen/issues/245)
+    - [关于mongoose的aggregation的参数类型问题](https://github.com/soapgu/PlayPen/issues/253)
 
-      - [解决VSCode无法读取webpack的alias问题](https://github.com/soapgu/PlayPen/issues/246)
-
-      - [关于mongoose的aggregation的参数类型问题](https://github.com/soapgu/PlayPen/issues/253)
-
-      - [解决lodash在VSCode识别的问题](https://github.com/soapgu/PlayPen/issues/255)
+    - [解决lodash在VSCode识别的问题](https://github.com/soapgu/PlayPen/issues/255)
 
   
   ## 通用
