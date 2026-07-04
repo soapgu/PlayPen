@@ -264,7 +264,9 @@
 
   - [安卓使用自定义字体](https://github.com/soapgu/PlayPen/issues/194)
 
-  - [如何查看安卓系统的CPU型号，比如armeabi，armeabi-v7a，还是arm64-v8a](如何查看安卓系统的CPU型号，比如armeabi，armeabi-v7a，还是arm64-v8a)
+  - [如何查看安卓系统的CPU型号，比如armeabi，armeabi-v7a，还是arm64-v8a](https://github.com/soapgu/PlayPen/issues/196)
+
+  - [Android在library级别的module引用本地.aar的问题](https://github.com/soapgu/PlayPen/issues/46)
 
   - [在安卓辅屏展示界面](https://github.com/soapgu/PlayPen/issues/197)
 
@@ -350,7 +352,7 @@
 
   - [Gradle 升级到 7.1.1 遇到的问题及解决](https://github.com/soapgu/PlayPen/issues/110)
 
-  - [使用system权限用户后，WebView 不能加载问题解决](https://github.com/soapgu/PlayPen/issues/113s)
+  - [使用system权限用户后，WebView 不能加载问题解决](https://github.com/soapgu/PlayPen/issues/113)
 
   - [解决Retrofit不使用baseUrl的Http交互以及github的issue不能上传图床的问题](https://github.com/soapgu/PlayPen/issues/115)
 
@@ -381,6 +383,10 @@
   - [安卓解决本地化配置问题](https://github.com/soapgu/PlayPen/issues/272)
 
   - [解决jitpack.io的组件无法下载的问题](https://github.com/soapgu/PlayPen/issues/273)
+
+  - [异常分析和处理手段](https://github.com/soapgu/PlayPen/issues/174)
+
+  - [解决jitpack.io的组件无法下载的问题（续）](https://github.com/soapgu/PlayPen/issues/276)
 
 - 安卓自动化之旅
   
@@ -459,6 +465,8 @@
   - [安卓定制化项目经验总结](https://github.com/soapgu/PlayPen/issues/226)
 
   - [安卓程序依赖冲突解决心得](https://github.com/soapgu/PlayPen/issues/228)
+
+  - [邪教式安卓程序依赖冲突解决](https://github.com/soapgu/PlayPen/issues/280)
     
 ## Apple
 
@@ -570,6 +578,8 @@
 
   - [Git原理以及使用分享（周五分享）](https://github.com/soapgu/PlayPen/issues/176)
 
+  - [Github发布流程（AI生成）](https://github.com/soapgu/PlayPen/issues/286)
+
   ## Windows
 
   - [WPF捕获键盘事件](https://github.com/soapgu/PlayPen/issues/193)
@@ -592,7 +602,13 @@
 
     - [Activiti(三)](https://github.com/soapgu/PlayPen/issues/270)
 
+  - [谈谈JAVA的Object](https://github.com/soapgu/PlayPen/issues/58)
+
   ## JavaScript
+
+  - [Graphql入门](https://github.com/soapgu/PlayPen/issues/259)
+
+  - [用nodejs完成VISCA over IP协议](https://github.com/soapgu/PlayPen/issues/278)
 
   - [node的VSCode IDE提示d.ts的相关代码注释是哪里来的](https://github.com/soapgu/PlayPen/issues/247)
 
@@ -611,8 +627,20 @@
 
     - [解决lodash在VSCode识别的问题](https://github.com/soapgu/PlayPen/issues/255)
 
+    - [Nodejs临时打印堆栈信息](https://github.com/soapgu/PlayPen/issues/277)
+
+    - [解决nodejs的mysql2组件MySQL Connection Timeout Error 的问题](https://github.com/soapgu/PlayPen/issues/279)
+
+    - [解决timers/promises模块覆盖setTimeout原生函数的问题](https://github.com/soapgu/PlayPen/issues/281)
+
+    - [React 本地开发 URL 尾斜杠问题（AI生成）](https://github.com/soapgu/PlayPen/issues/285)
+
   
   ## 通用
+
+ - [Hello OpenCode（一）](https://github.com/soapgu/PlayPen/issues/282)
+
+ - [.NET CLI 中文输出乱码问题(AI生成)](https://github.com/soapgu/PlayPen/issues/283)
 
  - 加解密
   
@@ -645,6 +673,8 @@
 
   - [Docker（Compose）简易运维手册](https://github.com/soapgu/PlayPen/issues/275)
 
+  - [GitHub Pages 部署故障排除记录（AI生成）](https://github.com/soapgu/PlayPen/issues/284)
+
 - 其他
 
   - [npm发布入门](https://github.com/soapgu/PlayPen/issues/249)
@@ -654,5 +684,7 @@
   - [SNMP的TRAP消息接受](https://github.com/soapgu/PlayPen/issues/263)
 
   - [解决无互联网情况使用DBeaver工具连接TAOS数据库的问题](https://github.com/soapgu/PlayPen/issues/274)
+
+  - [PPT提纲——《怎么写好Blog》](https://github.com/soapgu/PlayPen/issues/181)
 
 
