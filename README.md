@@ -15,7 +15,7 @@
 <p align="center">
   <img src="/images/logo_opencode.png" width="120" alt="OpenCode" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="/images/logo_codex.png" width="120" alt="Codex CLI" />
+  <img src="/images/logo_codex.png" width="120" alt="ChatGPT" />
 </p>
 
 - [Hello OpenCode（一）](https://github.com/soapgu/PlayPen/issues/282)
