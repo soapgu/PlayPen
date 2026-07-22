@@ -10,6 +10,26 @@
 
 ------
 
+## AI
+
+<p align="center">
+  <img src="/images/logo_opencode.png" width="120" alt="OpenCode" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="/images/logo_codex.png" width="120" alt="Codex CLI" />
+</p>
+
+- [Hello OpenCode（一）](https://github.com/soapgu/PlayPen/issues/282)
+
+- [Hello OpenCode（二）](https://github.com/soapgu/PlayPen/issues/287)
+
+- [Hello OpenCode(三)](https://github.com/soapgu/PlayPen/issues/289)
+
+- [OpenAI的Browser技能](https://github.com/soapgu/PlayPen/issues/290)
+
+- [OpenAI和OpenCode共享全局规则库](https://github.com/soapgu/PlayPen/issues/291)
+
+- [OpenCode的第一个技能Playwright-cli](https://github.com/soapgu/PlayPen/issues/292)
+
 ## 通用知识点
 
 - [聊一聊UTF-8编码](https://github.com/soapgu/PlayPen/issues/220)
@@ -638,21 +658,9 @@
   
   ## 通用
 
- - [Hello OpenCode（一）](https://github.com/soapgu/PlayPen/issues/282)
-
  - [.NET CLI 中文输出乱码问题(AI生成)](https://github.com/soapgu/PlayPen/issues/283)
 
- - [Hello OpenCode（二）](https://github.com/soapgu/PlayPen/issues/287)
-
  - [Fisher-Yates 洗牌算法介绍](https://github.com/soapgu/PlayPen/issues/288)
-
- - [Hello OpenCode(三)](https://github.com/soapgu/PlayPen/issues/289)
-
- - [OpenAI的Browser技能](https://github.com/soapgu/PlayPen/issues/290)
-
- - [OpenAI和OpenCode共享全局规则库](https://github.com/soapgu/PlayPen/issues/291)
-
- - [OpenCode的第一个技能Playwright-cli](https://github.com/soapgu/PlayPen/issues/292)
 
  - 加解密
   
