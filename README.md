@@ -642,6 +642,18 @@
 
  - [.NET CLI 中文输出乱码问题(AI生成)](https://github.com/soapgu/PlayPen/issues/283)
 
+ - [Hello OpenCode（二）](https://github.com/soapgu/PlayPen/issues/287)
+
+ - [Fisher-Yates 洗牌算法介绍](https://github.com/soapgu/PlayPen/issues/288)
+
+ - [Hello OpenCode(三)](https://github.com/soapgu/PlayPen/issues/289)
+
+ - [OpenAI的Browser技能](https://github.com/soapgu/PlayPen/issues/290)
+
+ - [OpenAI和OpenCode共享全局规则库](https://github.com/soapgu/PlayPen/issues/291)
+
+ - [OpenCode的第一个技能Playwright-cli](https://github.com/soapgu/PlayPen/issues/292)
+
  - 加解密
   
   - [RSA加解密（一）](https://github.com/soapgu/PlayPen/issues/233)
