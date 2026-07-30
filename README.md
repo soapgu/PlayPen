@@ -24,11 +24,19 @@
 
 - [Hello OpenCode(三)](https://github.com/soapgu/PlayPen/issues/289)
 
-- [OpenAI的Browser技能](https://github.com/soapgu/PlayPen/issues/290)
+- [OpenAI和OpenCode共享全局规则库](https://github.com/soapgu/PlayPen/issues/290)
 
-- [OpenAI和OpenCode共享全局规则库](https://github.com/soapgu/PlayPen/issues/291)
+- [OpenAI的Browser技能](https://github.com/soapgu/PlayPen/issues/291)
 
 - [OpenCode的第一个技能Playwright-cli](https://github.com/soapgu/PlayPen/issues/292)
+
+- [Playwright API（一）](https://github.com/soapgu/PlayPen/issues/293)
+
+- [OpenAI 和 OpenCode+DeepSeek 小小比较](https://github.com/soapgu/PlayPen/issues/294)
+
+- [Playwright API（二）](https://github.com/soapgu/PlayPen/issues/295)
+
+- [AI Code Agent 之痛点](https://github.com/soapgu/PlayPen/issues/296)
 
 ## 通用知识点
 
@@ -706,5 +714,4 @@
   - [解决无互联网情况使用DBeaver工具连接TAOS数据库的问题](https://github.com/soapgu/PlayPen/issues/274)
 
   - [PPT提纲——《怎么写好Blog》](https://github.com/soapgu/PlayPen/issues/181)
-
 
