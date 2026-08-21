@@ -44,6 +44,8 @@
 
 - [DeepSeek Harness 使用 AnySearch 替换原生 web_search：源码与 npx 两种安装方式](https://github.com/soapgu/PlayPen/issues/298)
 
+- [让 AI 操作飞书文档：飞书技能安装、使用与工作原理](https://github.com/soapgu/PlayPen/issues/299)
+
 ## 通用知识点
 
 - [聊一聊UTF-8编码](https://github.com/soapgu/PlayPen/issues/220)
