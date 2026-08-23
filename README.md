@@ -46,6 +46,8 @@
 
 - [让 AI 操作飞书文档：飞书技能安装、使用与工作原理](https://github.com/soapgu/PlayPen/issues/299)
 
+- [不替换大模型，给 Codex、OpenCode 和 ZCode 单独接入方舟 Agent Plan 生图能力](https://github.com/soapgu/PlayPen/issues/300)
+
 ## 通用知识点
 
 - [聊一聊UTF-8编码](https://github.com/soapgu/PlayPen/issues/220)
