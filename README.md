@@ -42,11 +42,23 @@
 
 - [AI Code Agent 之痛点](https://github.com/soapgu/PlayPen/issues/296)
 
+- [关于AI学习的一些资料站点](https://github.com/soapgu/PlayPen/issues/297)
+
 - [DeepSeek Harness 使用 AnySearch 替换原生 web_search：源码与 npx 两种安装方式](https://github.com/soapgu/PlayPen/issues/298)
 
 - [让 AI 操作飞书文档：飞书技能安装、使用与工作原理](https://github.com/soapgu/PlayPen/issues/299)
 
 - [不替换大模型，给 Codex、OpenCode 和 ZCode 单独接入方舟 Agent Plan 生图能力](https://github.com/soapgu/PlayPen/issues/300)
+
+- [方舟推理接入点（Endpoint）设计与 ArkCLI 调用机制调研](https://github.com/soapgu/PlayPen/issues/301)
+
+- [用 ArkCLI 技能生成图片：从 Agent Plan 到平台按量付费](https://github.com/soapgu/PlayPen/issues/302)
+
+- [全局规则-代码审核](https://github.com/soapgu/PlayPen/issues/303)
+
+- [为 ZCode 配置 Coding Plan 默认编程模型](https://github.com/soapgu/PlayPen/issues/304)
+
+- [从零打造通用 Postman Skill：让 Codex 与其他 Code Agent 管理并执行 API 请求](https://github.com/soapgu/PlayPen/issues/305)
 
 ## 通用知识点
 
@@ -134,8 +146,6 @@
 
   - [Android的IoC——Hilt View Models注意事项，不要忘记在宿主忘记加@AndroidEntryPoint](https://github.com/soapgu/PlayPen/issues/123)
   
-  - [深入RxJava之Subject](https://github.com/soapgu/PlayPen/issues/138)
-
 - Android DataBinding
   
   - [Android 练手之旅——DataBinding简介](https://github.com/soapgu/PlayPen/issues/6)
