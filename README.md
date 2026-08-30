@@ -60,6 +60,8 @@
 
 - [从零打造通用 Postman Skill：让 Codex 与其他 Code Agent 管理并执行 API 请求](https://github.com/soapgu/PlayPen/issues/305)
 
+- [AI 也是需要调教的！——一次生图等待噩梦与 Base64 上下文污染复盘](https://github.com/soapgu/PlayPen/issues/306)
+
 ## 通用知识点
 
 - [聊一聊UTF-8编码](https://github.com/soapgu/PlayPen/issues/220)
