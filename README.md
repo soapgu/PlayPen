@@ -62,6 +62,8 @@
 
 - [AI 也是需要调教的！——一次生图等待噩梦与 Base64 上下文污染复盘](https://github.com/soapgu/PlayPen/issues/306)
 
+- [计划模式——谋定而后动](https://github.com/soapgu/PlayPen/issues/308)
+
 ## 通用知识点
 
 - [聊一聊UTF-8编码](https://github.com/soapgu/PlayPen/issues/220)
@@ -532,6 +534,8 @@
   - [NTFS in macOS](https://github.com/soapgu/PlayPen/issues/206)
 
   - [控制台启动报错 zsh compinit: insecure directories, run compaudit for list](https://github.com/soapgu/PlayPen/issues/261)
+
+  - [VPN 连不上，先别急着重启 Mac：一次残留路由故障复盘](https://github.com/soapgu/PlayPen/issues/307)
 
 - 入门
   - [Swift Zero（first program)](https://github.com/soapgu/PlayPen/issues/79)
