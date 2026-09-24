@@ -76,7 +76,9 @@
 
 - [Nodejs报错digital envelope routines::unsupported原因以及解决](https://github.com/soapgu/PlayPen/issues/229)
 
+## Qt
 
+- [0经验开发QT-序章](https://github.com/soapgu/PlayPen/issues/309)
 
 ## 安卓
 
