@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+<rect width="1200" height="680" fill="#f4f6f8"/>
+<text x="40" y="50" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#17212b">Qt Creator 中修改 CMake SDK 路径（界面示意）</text>
+<rect x="38" y="80" width="1124" height="545" rx="12" fill="white" stroke="#c9d1da" stroke-width="2"/>
+<rect x="38" y="80" width="225" height="545" rx="12" fill="#e9edf2"/>
+<text x="60" y="128" font-family="Arial,sans-serif" font-size="21" fill="#374151">欢迎</text>
+<text x="60" y="178" font-family="Arial,sans-serif" font-size="21" fill="#374151">编辑</text>
+<rect x="51" y="207" width="190" height="52" rx="8" fill="#d6f4e6" stroke="#10a777" stroke-width="3"/>
+<text x="66" y="241" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="#116444">① 项目</text>
+<text x="295" y="125" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#17212b">② 构建设置</text>
+<text x="295" y="163" font-family="Arial,sans-serif" font-size="17" fill="#596579">选择 Desktop Qt 6.8.3 Apple Silicon / Debug</text>
+<rect x="285" y="186" width="835" height="408" rx="10" fill="#f8fafc" stroke="#c9d1da"/>
+<text x="309" y="223" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#17212b">CMake</text>
+<rect x="306" y="249" width="365" height="48" rx="8" fill="#fff" stroke="#b9c4cf"/>
+<text x="324" y="280" font-family="Arial,sans-serif" font-size="19" fill="#17212b">Initial Configuration</text>
+<rect x="680" y="249" width="405" height="48" rx="8" fill="#d6f4e6" stroke="#10a777" stroke-width="3"/>
+<text x="702" y="280" font-family="Arial,sans-serif" font-size="19" font-weight="bold" fill="#116444">③ Current Configuration</text>
+<rect x="306" y="317" width="779" height="48" rx="6" fill="white" stroke="#9aa8b6"/>
+<text x="321" y="348" font-family="Arial,sans-serif" font-size="19" fill="#607080">过滤器：CMAKE_OSX_SYSROOT</text>
+<rect x="306" y="381" width="779" height="92" rx="6" fill="white" stroke="#10a777" stroke-width="3"/>
+<text x="322" y="418" font-family="Arial,sans-serif" font-size="18" font-weight="bold" fill="#17212b">CMAKE_OSX_SYSROOT</text>
+<text x="322" y="451" font-family="Arial,sans-serif" font-size="15" fill="#374151">/Applications/Xcode.app/.../SDKs/MacOSX.sdk</text>
+<text x="310" y="517" font-family="Arial,sans-serif" font-size="18" fill="#374151">如值仍为旧版 MacOSX26.2.sdk：双击值修改，再点右下角“执行 CMake”。</text>
+<text x="310" y="554" font-family="Arial,sans-serif" font-size="18" fill="#374151">以后新建构建目录：在 Initial Configuration 添加相同变量。</text>
+<text x="41" y="656" font-family="Arial,sans-serif" font-size="16" fill="#596579">根据本机 Qt Creator 实际页面绘制；按钮位置可能随窗口尺寸变化。</text>
+</svg>

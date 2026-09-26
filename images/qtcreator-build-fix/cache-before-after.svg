@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="1030" viewBox="0 0 1900 1030">
+<rect width="100%" height="100%" fill="#111827"/>
+<text x="60" y="80" fill="#f9fafb" font-size="40" font-family="PingFang SC,Arial,sans-serif" font-weight="bold">Qt Creator 本地构建缓存：修改前后</text>
+<text x="60" y="130" fill="#9ca3af" font-size="23" font-family="Menlo,monospace">vote_device/build/Desktop_Qt_6_8_3_Apple_Silicon_Debug/CMakeCache.txt</text>
+<rect x="60" y="170" width="1780" height="800" rx="20" fill="#1f2937"/>
+<text x="95" y="220" fill="#9ca3af" font-size="24" font-family="PingFang SC,Arial,sans-serif">原值（CMakeCache.txt.prev）</text>
+<text x="970" y="220" fill="#6ee7b7" font-size="24" font-family="PingFang SC,Arial,sans-serif">修复后（CMakeCache.txt）</text>
+<text x="95" y="270" fill="#e5e7eb" font-size="25" font-family="Menlo,monospace" font-weight="bold">CMAKE_OSX_SYSROOT</text>
+<text x="970" y="270" fill="#e5e7eb" font-size="25" font-family="Menlo,monospace" font-weight="bold">CMAKE_OSX_SYSROOT</text>
+<text x="95" y="312" fill="#fca5a5" font-size="22" font-family="Menlo,monospace">第 183 行  .../SDKs/MacOSX26.2.sdk</text>
+<text x="970" y="312" fill="#86efac" font-size="22" font-family="Menlo,monospace">第 183 行  .../SDKs/MacOSX.sdk</text>
+<line x1="95" y1="343" x2="1805" y2="343" stroke="#374151"/>
+<text x="95" y="410" fill="#e5e7eb" font-size="25" font-family="Menlo,monospace" font-weight="bold">CMAKE_OSX_ARCHITECTURES</text>
+<text x="970" y="410" fill="#e5e7eb" font-size="25" font-family="Menlo,monospace" font-weight="bold">CMAKE_OSX_ARCHITECTURES</text>
+<text x="95" y="452" fill="#fca5a5" font-size="22" font-family="Menlo,monospace">第 175 行  (空)</text>
+<text x="970" y="452" fill="#86efac" font-size="22" font-family="Menlo,monospace">第 175 行  arm64</text>
+<line x1="95" y1="483" x2="1805" y2="483" stroke="#374151"/>
+<text x="95" y="550" fill="#e5e7eb" font-size="25" font-family="Menlo,monospace" font-weight="bold">OPENGL_INCLUDE_DIR</text>
+<text x="970" y="550" fill="#e5e7eb" font-size="25" font-family="Menlo,monospace" font-weight="bold">OPENGL_INCLUDE_DIR</text>
+<text x="95" y="592" fill="#fca5a5" font-size="22" font-family="Menlo,monospace">第 315 行  .../SDKs/MacOSX26.2.sdk/System/Library/Frameworks/OpenGL.framework</text>
+<text x="970" y="592" fill="#86efac" font-size="22" font-family="Menlo,monospace">第 312 行  .../SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework</text>
+<line x1="95" y1="623" x2="1805" y2="623" stroke="#374151"/>
+<text x="95" y="690" fill="#e5e7eb" font-size="25" font-family="Menlo,monospace" font-weight="bold">OPENGL_gl_LIBRARY</text>
+<text x="970" y="690" fill="#e5e7eb" font-size="25" font-family="Menlo,monospace" font-weight="bold">OPENGL_gl_LIBRARY</text>
+<text x="95" y="732" fill="#fca5a5" font-size="22" font-family="Menlo,monospace">第 318 行  .../SDKs/MacOSX26.2.sdk/System/Library/Frameworks/OpenGL.framework</text>
+<text x="970" y="732" fill="#86efac" font-size="22" font-family="Menlo,monospace">第 315 行  .../SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework</text>
+<line x1="95" y1="763" x2="1805" y2="763" stroke="#374151"/>
+<text x="95" y="830" fill="#e5e7eb" font-size="25" font-family="Menlo,monospace" font-weight="bold">OPENGL_glu_LIBRARY</text>
+<text x="970" y="830" fill="#e5e7eb" font-size="25" font-family="Menlo,monospace" font-weight="bold">OPENGL_glu_LIBRARY</text>
+<text x="95" y="872" fill="#fca5a5" font-size="22" font-family="Menlo,monospace">第 321 行  .../SDKs/MacOSX26.2.sdk/System/Library/Frameworks/OpenGL.framework</text>
+<text x="970" y="872" fill="#86efac" font-size="22" font-family="Menlo,monospace">第 318 行  .../SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework</text>
+</svg>
