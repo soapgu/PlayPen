@@ -80,6 +80,8 @@
 
 - [0经验开发QT-序章](https://github.com/soapgu/PlayPen/issues/309)
 
+- [macOS 系统与 Xcode 升级引起的 Qt Creator 构建问题：诊断与修复记录](https://github.com/soapgu/PlayPen/issues/310)
+
 ## 安卓
 
 ![](/images/logo_android.png)
