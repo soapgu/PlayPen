@@ -82,6 +82,14 @@
 
 - [macOS 系统与 Xcode 升级引起的 Qt Creator 构建问题：诊断与修复记录](https://github.com/soapgu/PlayPen/issues/310)
 
+- [Qt Quick/QML 学习资料：从 WPF 与 Android 迁移理解](https://github.com/soapgu/PlayPen/issues/311)
+
+- [Qt QML Signal 与分层事件流](https://github.com/soapgu/PlayPen/issues/312)
+
+- [Qt Q_PROPERTY 与跨平台双向绑定对照](https://github.com/soapgu/PlayPen/issues/313)
+
+- [Qt 元对象系统与 QML 类型注册](https://github.com/soapgu/PlayPen/issues/314)
+
 ## 安卓
 
 ![](/images/logo_android.png)
