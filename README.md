@@ -90,6 +90,10 @@
 
 - [Qt 元对象系统与 QML 类型注册](https://github.com/soapgu/PlayPen/issues/314)
 
+- [QML 控件抽象与跨平台对照](https://github.com/soapgu/PlayPen/issues/315)
+
+- [麒麟 Qt Quick 启动与退出崩溃：从 SDK 怀疑到图形栈对照诊断](https://github.com/soapgu/PlayPen/issues/316)
+
 ## 安卓
 
 ![](/images/logo_android.png)
