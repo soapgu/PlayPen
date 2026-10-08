@@ -92,7 +92,7 @@
 
 - [QML 控件抽象与跨平台对照](https://github.com/soapgu/PlayPen/issues/315)
 
-- [麒麟 Qt Quick 启动与退出崩溃：从 SDK 怀疑到图形栈对照诊断](https://github.com/soapgu/PlayPen/issues/316)
+- [麒麟 Qt Quick 启动与退出崩溃复盘：从 SDK 怀疑到显卡驱动升级修复](https://github.com/soapgu/PlayPen/issues/316)
 
 ## 安卓
 
