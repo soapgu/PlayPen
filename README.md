@@ -64,6 +64,8 @@
 
 - [计划模式——谋定而后动](https://github.com/soapgu/PlayPen/issues/308)
 
+- [建立 SSH 连接，让 ChatGPT / Codex 操作远程开发主机](https://github.com/soapgu/PlayPen/issues/317)
+
 ## 通用知识点
 
 - [聊一聊UTF-8编码](https://github.com/soapgu/PlayPen/issues/220)
