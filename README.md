@@ -96,6 +96,10 @@
 
 - [麒麟 Qt Quick 启动与退出崩溃复盘：从 SDK 怀疑到显卡驱动升级修复](https://github.com/soapgu/PlayPen/issues/316)
 
+- [Qt 原生 HTTP 实战——从 JSON 请求到图片下载](https://github.com/soapgu/PlayPen/issues/318)
+
+- [Qt QTimer：基础用法、事件循环与网络超时实战](https://github.com/soapgu/PlayPen/issues/319)
+
 ## 安卓
 
 ![](/images/logo_android.png)
