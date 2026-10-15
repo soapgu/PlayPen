@@ -100,6 +100,8 @@
 
 - [Qt QTimer：基础用法、事件循环与网络超时实战](https://github.com/soapgu/PlayPen/issues/319)
 
+- [麒麟 Qt HTTPS 请求失败复盘——从 TLS 初始化错误到 OpenSSL 3 并存修复](https://github.com/soapgu/PlayPen/issues/320)
+
 ## 安卓
 
 ![](/images/logo_android.png)
