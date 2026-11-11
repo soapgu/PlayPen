@@ -68,6 +68,8 @@
 
 - [Windows 版 ChatGPT 完整安装包下载与离线安装](https://github.com/soapgu/PlayPen/issues/322)
 
+- [Remotion 视频偶发闪烁：三项渲染调整解决问题](https://github.com/soapgu/PlayPen/issues/323)
+
 ## 通用知识点
 
 - [聊一聊UTF-8编码](https://github.com/soapgu/PlayPen/issues/220)
